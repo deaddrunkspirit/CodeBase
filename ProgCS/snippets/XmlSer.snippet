@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+    <CodeSnippet Format="1.0.0">
+        <Header>
+            <Title>Xml Serialize</Title>
+            <Shortcut>xmlser</Shortcut>
+        </Header>
+        <Snippet>
+            <Code Language="CSharp">
+                <![CDATA[
+private static void XMLSerialization(string path, Zoo<Animal> serialisableObject)
+        {
+            var formatter = new XmlSerializer(typeof(Zoo<Animal>), new Type[] { typeof(Cat), typeof(Dog), typeof(Animal), });
+            using (var fs = new FileStream(path, FileMode.Create))
+                formatter.Serialize(fs, serialisableObject);
+        }
+    ]]>
+            </Code>
+        </Snippet>
+    </CodeSnippet>
+</CodeSnippets>

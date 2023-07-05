@@ -1,0 +1,82 @@
+Books count: 27
+Book ID: 100001
+	row: 1
+	book case: 1
+Book ID: 100002
+	row: 2
+	book case: 1
+Book ID: 100003
+	row: 3
+	book case: 1
+Book ID: 100004
+	row: 1
+	book case: 1
+Book ID: 100005
+	row: 1
+	book case: 1
+Book ID: 100006
+	row: 2
+	book case: 1
+Book ID: 100007
+	row: 3
+	book case: 1
+Book ID: 100008
+	row: 1
+	book case: 2
+Book ID: 100009
+	row: 2
+	book case: 1
+Book ID: 100010
+	row: 3
+	book case: 1
+Book ID: 100011
+	row: 2
+	book case: 2
+Book ID: 100012
+	row: 1
+	book case: 2
+Book ID: 100013
+	row: 3
+	book case: 2
+Book ID: 100014
+	row: 2
+	book case: 2
+Book ID: 100015
+	row: 1
+	book case: 2
+Book ID: 100016
+	row: 2
+	book case: 2
+Book ID: 100017
+	row: 3
+	book case: 2
+Book ID: 100018
+	row: 2
+	book case: 3
+Book ID: 100019
+	row: 3
+	book case: 2
+Book ID: 100020
+	row: 1
+	book case: 3
+Book ID: 100021
+	row: 2
+	book case: 3
+Book ID: 100022
+	row: 3
+	book case: 3
+Book ID: 100023
+	row: 1
+	book case: 3
+Book ID: 100024
+	row: 3
+	book case: 3
+Book ID: 100025
+	row: 2
+	book case: 3
+Book ID: 100026
+	row: 1
+	book case: 3
+Book ID: 100027
+	row: 3
+	book case: 3

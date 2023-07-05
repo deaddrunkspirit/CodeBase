@@ -1,0 +1,8281 @@
+Books count: 2760
+Book ID: 100001
+	row: 1
+	book case: 1
+Book ID: 100002
+	row: 1
+	book case: 1
+Book ID: 100003
+	row: 1
+	book case: 1
+Book ID: 100004
+	row: 1
+	book case: 1
+Book ID: 100005
+	row: 2
+	book case: 1
+Book ID: 100006
+	row: 3
+	book case: 1
+Book ID: 100007
+	row: 4
+	book case: 1
+Book ID: 100008
+	row: 1
+	book case: 1
+Book ID: 100009
+	row: 4
+	book case: 1
+Book ID: 100010
+	row: 2
+	book case: 1
+Book ID: 100011
+	row: 3
+	book case: 1
+Book ID: 100012
+	row: 4
+	book case: 1
+Book ID: 100013
+	row: 2
+	book case: 1
+Book ID: 100014
+	row: 1
+	book case: 1
+Book ID: 100015
+	row: 3
+	book case: 1
+Book ID: 100016
+	row: 4
+	book case: 1
+Book ID: 100017
+	row: 2
+	book case: 1
+Book ID: 100018
+	row: 1
+	book case: 1
+Book ID: 100019
+	row: 1
+	book case: 1
+Book ID: 100020
+	row: 2
+	book case: 1
+Book ID: 100021
+	row: 3
+	book case: 1
+Book ID: 100022
+	row: 4
+	book case: 1
+Book ID: 100023
+	row: 1
+	book case: 1
+Book ID: 100024
+	row: 2
+	book case: 1
+Book ID: 100025
+	row: 3
+	book case: 1
+Book ID: 100026
+	row: 1
+	book case: 1
+Book ID: 100027
+	row: 2
+	book case: 1
+Book ID: 100028
+	row: 4
+	book case: 1
+Book ID: 100029
+	row: 1
+	book case: 1
+Book ID: 100030
+	row: 2
+	book case: 1
+Book ID: 100031
+	row: 3
+	book case: 1
+Book ID: 100032
+	row: 1
+	book case: 1
+Book ID: 100033
+	row: 2
+	book case: 1
+Book ID: 100034
+	row: 4
+	book case: 1
+Book ID: 100035
+	row: 1
+	book case: 1
+Book ID: 100036
+	row: 3
+	book case: 1
+Book ID: 100037
+	row: 2
+	book case: 1
+Book ID: 100038
+	row: 4
+	book case: 1
+Book ID: 100039
+	row: 1
+	book case: 1
+Book ID: 100040
+	row: 2
+	book case: 1
+Book ID: 100041
+	row: 3
+	book case: 1
+Book ID: 100042
+	row: 4
+	book case: 1
+Book ID: 100043
+	row: 1
+	book case: 1
+Book ID: 100044
+	row: 2
+	book case: 1
+Book ID: 100045
+	row: 3
+	book case: 1
+Book ID: 100046
+	row: 1
+	book case: 1
+Book ID: 100047
+	row: 4
+	book case: 1
+Book ID: 100048
+	row: 2
+	book case: 1
+Book ID: 100049
+	row: 3
+	book case: 1
+Book ID: 100050
+	row: 1
+	book case: 1
+Book ID: 100051
+	row: 4
+	book case: 1
+Book ID: 100052
+	row: 2
+	book case: 1
+Book ID: 100053
+	row: 3
+	book case: 1
+Book ID: 100054
+	row: 4
+	book case: 1
+Book ID: 100055
+	row: 1
+	book case: 1
+Book ID: 100056
+	row: 2
+	book case: 1
+Book ID: 100057
+	row: 1
+	book case: 1
+Book ID: 100058
+	row: 3
+	book case: 1
+Book ID: 100059
+	row: 2
+	book case: 1
+Book ID: 100060
+	row: 4
+	book case: 1
+Book ID: 100061
+	row: 1
+	book case: 1
+Book ID: 100062
+	row: 2
+	book case: 1
+Book ID: 100063
+	row: 3
+	book case: 1
+Book ID: 100064
+	row: 4
+	book case: 1
+Book ID: 100065
+	row: 1
+	book case: 1
+Book ID: 100066
+	row: 2
+	book case: 1
+Book ID: 100067
+	row: 3
+	book case: 1
+Book ID: 100068
+	row: 4
+	book case: 1
+Book ID: 100069
+	row: 1
+	book case: 1
+Book ID: 100070
+	row: 3
+	book case: 1
+Book ID: 100071
+	row: 2
+	book case: 1
+Book ID: 100072
+	row: 3
+	book case: 1
+Book ID: 100073
+	row: 1
+	book case: 1
+Book ID: 100074
+	row: 4
+	book case: 1
+Book ID: 100075
+	row: 2
+	book case: 1
+Book ID: 100076
+	row: 3
+	book case: 1
+Book ID: 100077
+	row: 1
+	book case: 2
+Book ID: 100078
+	row: 4
+	book case: 1
+Book ID: 100079
+	row: 2
+	book case: 1
+Book ID: 100080
+	row: 1
+	book case: 2
+Book ID: 100081
+	row: 3
+	book case: 1
+Book ID: 100082
+	row: 4
+	book case: 1
+Book ID: 100083
+	row: 1
+	book case: 2
+Book ID: 100084
+	row: 2
+	book case: 1
+Book ID: 100085
+	row: 3
+	book case: 1
+Book ID: 100086
+	row: 1
+	book case: 2
+Book ID: 100087
+	row: 4
+	book case: 1
+Book ID: 100088
+	row: 2
+	book case: 1
+Book ID: 100089
+	row: 3
+	book case: 1
+Book ID: 100090
+	row: 4
+	book case: 1
+Book ID: 100091
+	row: 1
+	book case: 2
+Book ID: 100092
+	row: 2
+	book case: 2
+Book ID: 100093
+	row: 3
+	book case: 1
+Book ID: 100094
+	row: 4
+	book case: 1
+Book ID: 100095
+	row: 1
+	book case: 2
+Book ID: 100096
+	row: 2
+	book case: 2
+Book ID: 100097
+	row: 4
+	book case: 1
+Book ID: 100098
+	row: 3
+	book case: 1
+Book ID: 100099
+	row: 1
+	book case: 2
+Book ID: 100100
+	row: 2
+	book case: 2
+Book ID: 100101
+	row: 1
+	book case: 2
+Book ID: 100102
+	row: 2
+	book case: 2
+Book ID: 100103
+	row: 4
+	book case: 1
+Book ID: 100104
+	row: 3
+	book case: 1
+Book ID: 100105
+	row: 4
+	book case: 2
+Book ID: 100106
+	row: 1
+	book case: 2
+Book ID: 100107
+	row: 2
+	book case: 2
+Book ID: 100108
+	row: 3
+	book case: 2
+Book ID: 100109
+	row: 4
+	book case: 2
+Book ID: 100110
+	row: 2
+	book case: 2
+Book ID: 100111
+	row: 1
+	book case: 2
+Book ID: 100112
+	row: 2
+	book case: 2
+Book ID: 100113
+	row: 3
+	book case: 2
+Book ID: 100114
+	row: 4
+	book case: 2
+Book ID: 100115
+	row: 1
+	book case: 2
+Book ID: 100116
+	row: 4
+	book case: 2
+Book ID: 100117
+	row: 3
+	book case: 2
+Book ID: 100118
+	row: 2
+	book case: 2
+Book ID: 100119
+	row: 1
+	book case: 2
+Book ID: 100120
+	row: 4
+	book case: 2
+Book ID: 100121
+	row: 3
+	book case: 2
+Book ID: 100122
+	row: 2
+	book case: 2
+Book ID: 100123
+	row: 1
+	book case: 2
+Book ID: 100124
+	row: 4
+	book case: 2
+Book ID: 100125
+	row: 3
+	book case: 2
+Book ID: 100126
+	row: 1
+	book case: 2
+Book ID: 100127
+	row: 2
+	book case: 2
+Book ID: 100128
+	row: 4
+	book case: 2
+Book ID: 100129
+	row: 3
+	book case: 2
+Book ID: 100130
+	row: 2
+	book case: 2
+Book ID: 100131
+	row: 1
+	book case: 2
+Book ID: 100132
+	row: 2
+	book case: 2
+Book ID: 100133
+	row: 4
+	book case: 2
+Book ID: 100134
+	row: 1
+	book case: 2
+Book ID: 100135
+	row: 3
+	book case: 2
+Book ID: 100136
+	row: 1
+	book case: 2
+Book ID: 100137
+	row: 2
+	book case: 2
+Book ID: 100138
+	row: 4
+	book case: 2
+Book ID: 100139
+	row: 3
+	book case: 2
+Book ID: 100140
+	row: 1
+	book case: 2
+Book ID: 100141
+	row: 2
+	book case: 2
+Book ID: 100142
+	row: 4
+	book case: 2
+Book ID: 100143
+	row: 3
+	book case: 2
+Book ID: 100144
+	row: 1
+	book case: 2
+Book ID: 100145
+	row: 2
+	book case: 2
+Book ID: 100146
+	row: 4
+	book case: 2
+Book ID: 100147
+	row: 3
+	book case: 2
+Book ID: 100148
+	row: 2
+	book case: 2
+Book ID: 100149
+	row: 1
+	book case: 2
+Book ID: 100150
+	row: 4
+	book case: 2
+Book ID: 100151
+	row: 3
+	book case: 2
+Book ID: 100152
+	row: 2
+	book case: 2
+Book ID: 100153
+	row: 1
+	book case: 2
+Book ID: 100154
+	row: 3
+	book case: 2
+Book ID: 100155
+	row: 4
+	book case: 2
+Book ID: 100156
+	row: 2
+	book case: 2
+Book ID: 100157
+	row: 1
+	book case: 2
+Book ID: 100158
+	row: 3
+	book case: 2
+Book ID: 100159
+	row: 1
+	book case: 2
+Book ID: 100160
+	row: 2
+	book case: 2
+Book ID: 100161
+	row: 4
+	book case: 2
+Book ID: 100162
+	row: 1
+	book case: 3
+Book ID: 100163
+	row: 2
+	book case: 2
+Book ID: 100164
+	row: 4
+	book case: 2
+Book ID: 100165
+	row: 3
+	book case: 2
+Book ID: 100166
+	row: 1
+	book case: 3
+Book ID: 100167
+	row: 2
+	book case: 2
+Book ID: 100168
+	row: 4
+	book case: 2
+Book ID: 100169
+	row: 3
+	book case: 2
+Book ID: 100170
+	row: 1
+	book case: 3
+Book ID: 100171
+	row: 2
+	book case: 2
+Book ID: 100172
+	row: 4
+	book case: 2
+Book ID: 100173
+	row: 1
+	book case: 3
+Book ID: 100174
+	row: 2
+	book case: 2
+Book ID: 100175
+	row: 3
+	book case: 2
+Book ID: 100176
+	row: 4
+	book case: 2
+Book ID: 100177
+	row: 1
+	book case: 3
+Book ID: 100178
+	row: 2
+	book case: 3
+Book ID: 100179
+	row: 1
+	book case: 3
+Book ID: 100180
+	row: 2
+	book case: 3
+Book ID: 100181
+	row: 3
+	book case: 2
+Book ID: 100182
+	row: 4
+	book case: 2
+Book ID: 100183
+	row: 1
+	book case: 3
+Book ID: 100184
+	row: 2
+	book case: 3
+Book ID: 100185
+	row: 4
+	book case: 2
+Book ID: 100186
+	row: 1
+	book case: 3
+Book ID: 100187
+	row: 2
+	book case: 3
+Book ID: 100188
+	row: 3
+	book case: 2
+Book ID: 100189
+	row: 1
+	book case: 3
+Book ID: 100190
+	row: 4
+	book case: 2
+Book ID: 100191
+	row: 2
+	book case: 3
+Book ID: 100192
+	row: 3
+	book case: 2
+Book ID: 100193
+	row: 2
+	book case: 3
+Book ID: 100194
+	row: 1
+	book case: 3
+Book ID: 100195
+	row: 4
+	book case: 2
+Book ID: 100196
+	row: 1
+	book case: 3
+Book ID: 100197
+	row: 2
+	book case: 3
+Book ID: 100198
+	row: 4
+	book case: 2
+Book ID: 100199
+	row: 1
+	book case: 3
+Book ID: 100200
+	row: 2
+	book case: 3
+Book ID: 100201
+	row: 3
+	book case: 2
+Book ID: 100202
+	row: 4
+	book case: 3
+Book ID: 100203
+	row: 2
+	book case: 3
+Book ID: 100204
+	row: 1
+	book case: 3
+Book ID: 100205
+	row: 3
+	book case: 2
+Book ID: 100206
+	row: 4
+	book case: 3
+Book ID: 100207
+	row: 1
+	book case: 3
+Book ID: 100208
+	row: 2
+	book case: 3
+Book ID: 100209
+	row: 4
+	book case: 3
+Book ID: 100210
+	row: 3
+	book case: 2
+Book ID: 100211
+	row: 2
+	book case: 3
+Book ID: 100212
+	row: 1
+	book case: 3
+Book ID: 100213
+	row: 4
+	book case: 3
+Book ID: 100214
+	row: 3
+	book case: 2
+Book ID: 100215
+	row: 1
+	book case: 3
+Book ID: 100216
+	row: 2
+	book case: 3
+Book ID: 100217
+	row: 4
+	book case: 3
+Book ID: 100218
+	row: 1
+	book case: 3
+Book ID: 100219
+	row: 3
+	book case: 3
+Book ID: 100220
+	row: 2
+	book case: 3
+Book ID: 100221
+	row: 4
+	book case: 3
+Book ID: 100222
+	row: 1
+	book case: 3
+Book ID: 100223
+	row: 2
+	book case: 3
+Book ID: 100224
+	row: 3
+	book case: 3
+Book ID: 100225
+	row: 1
+	book case: 3
+Book ID: 100226
+	row: 4
+	book case: 3
+Book ID: 100227
+	row: 2
+	book case: 3
+Book ID: 100228
+	row: 3
+	book case: 3
+Book ID: 100229
+	row: 4
+	book case: 3
+Book ID: 100230
+	row: 1
+	book case: 3
+Book ID: 100231
+	row: 2
+	book case: 3
+Book ID: 100232
+	row: 4
+	book case: 3
+Book ID: 100233
+	row: 2
+	book case: 3
+Book ID: 100234
+	row: 1
+	book case: 3
+Book ID: 100235
+	row: 3
+	book case: 3
+Book ID: 100236
+	row: 4
+	book case: 3
+Book ID: 100237
+	row: 2
+	book case: 3
+Book ID: 100238
+	row: 1
+	book case: 3
+Book ID: 100239
+	row: 3
+	book case: 3
+Book ID: 100240
+	row: 4
+	book case: 3
+Book ID: 100241
+	row: 1
+	book case: 3
+Book ID: 100242
+	row: 2
+	book case: 3
+Book ID: 100243
+	row: 3
+	book case: 3
+Book ID: 100244
+	row: 1
+	book case: 4
+Book ID: 100245
+	row: 4
+	book case: 3
+Book ID: 100246
+	row: 2
+	book case: 3
+Book ID: 100247
+	row: 3
+	book case: 3
+Book ID: 100248
+	row: 1
+	book case: 4
+Book ID: 100249
+	row: 4
+	book case: 3
+Book ID: 100250
+	row: 2
+	book case: 3
+Book ID: 100251
+	row: 3
+	book case: 3
+Book ID: 100252
+	row: 1
+	book case: 4
+Book ID: 100253
+	row: 4
+	book case: 3
+Book ID: 100254
+	row: 2
+	book case: 3
+Book ID: 100255
+	row: 1
+	book case: 4
+Book ID: 100256
+	row: 3
+	book case: 3
+Book ID: 100257
+	row: 4
+	book case: 3
+Book ID: 100258
+	row: 2
+	book case: 3
+Book ID: 100259
+	row: 4
+	book case: 3
+Book ID: 100260
+	row: 1
+	book case: 4
+Book ID: 100261
+	row: 3
+	book case: 3
+Book ID: 100262
+	row: 2
+	book case: 4
+Book ID: 100263
+	row: 1
+	book case: 4
+Book ID: 100264
+	row: 2
+	book case: 4
+Book ID: 100265
+	row: 3
+	book case: 3
+Book ID: 100266
+	row: 4
+	book case: 3
+Book ID: 100267
+	row: 1
+	book case: 4
+Book ID: 100268
+	row: 2
+	book case: 4
+Book ID: 100269
+	row: 4
+	book case: 3
+Book ID: 100270
+	row: 3
+	book case: 3
+Book ID: 100271
+	row: 1
+	book case: 4
+Book ID: 100272
+	row: 4
+	book case: 3
+Book ID: 100273
+	row: 3
+	book case: 3
+Book ID: 100274
+	row: 2
+	book case: 4
+Book ID: 100275
+	row: 1
+	book case: 4
+Book ID: 100276
+	row: 4
+	book case: 3
+Book ID: 100277
+	row: 3
+	book case: 3
+Book ID: 100278
+	row: 2
+	book case: 4
+Book ID: 100279
+	row: 1
+	book case: 4
+Book ID: 100280
+	row: 4
+	book case: 3
+Book ID: 100281
+	row: 3
+	book case: 3
+Book ID: 100282
+	row: 2
+	book case: 4
+Book ID: 100283
+	row: 1
+	book case: 4
+Book ID: 100284
+	row: 4
+	book case: 3
+Book ID: 100285
+	row: 3
+	book case: 3
+Book ID: 100286
+	row: 2
+	book case: 4
+Book ID: 100287
+	row: 1
+	book case: 4
+Book ID: 100288
+	row: 4
+	book case: 3
+Book ID: 100289
+	row: 3
+	book case: 3
+Book ID: 100290
+	row: 1
+	book case: 4
+Book ID: 100291
+	row: 2
+	book case: 4
+Book ID: 100292
+	row: 4
+	book case: 4
+Book ID: 100293
+	row: 1
+	book case: 4
+Book ID: 100294
+	row: 2
+	book case: 4
+Book ID: 100295
+	row: 3
+	book case: 3
+Book ID: 100296
+	row: 4
+	book case: 4
+Book ID: 100297
+	row: 2
+	book case: 4
+Book ID: 100298
+	row: 1
+	book case: 4
+Book ID: 100299
+	row: 3
+	book case: 3
+Book ID: 100300
+	row: 4
+	book case: 4
+Book ID: 100301
+	row: 2
+	book case: 4
+Book ID: 100302
+	row: 1
+	book case: 4
+Book ID: 100303
+	row: 3
+	book case: 3
+Book ID: 100304
+	row: 4
+	book case: 4
+Book ID: 100305
+	row: 2
+	book case: 4
+Book ID: 100306
+	row: 1
+	book case: 4
+Book ID: 100307
+	row: 3
+	book case: 3
+Book ID: 100308
+	row: 4
+	book case: 4
+Book ID: 100309
+	row: 1
+	book case: 4
+Book ID: 100310
+	row: 2
+	book case: 4
+Book ID: 100311
+	row: 3
+	book case: 3
+Book ID: 100312
+	row: 4
+	book case: 4
+Book ID: 100313
+	row: 3
+	book case: 3
+Book ID: 100314
+	row: 1
+	book case: 4
+Book ID: 100315
+	row: 4
+	book case: 4
+Book ID: 100316
+	row: 2
+	book case: 4
+Book ID: 100317
+	row: 3
+	book case: 4
+Book ID: 100318
+	row: 1
+	book case: 4
+Book ID: 100319
+	row: 2
+	book case: 4
+Book ID: 100320
+	row: 4
+	book case: 4
+Book ID: 100321
+	row: 3
+	book case: 4
+Book ID: 100322
+	row: 1
+	book case: 4
+Book ID: 100323
+	row: 4
+	book case: 4
+Book ID: 100324
+	row: 2
+	book case: 4
+Book ID: 100325
+	row: 3
+	book case: 4
+Book ID: 100326
+	row: 4
+	book case: 4
+Book ID: 100327
+	row: 1
+	book case: 4
+Book ID: 100328
+	row: 2
+	book case: 4
+Book ID: 100329
+	row: 3
+	book case: 4
+Book ID: 100330
+	row: 4
+	book case: 4
+Book ID: 100331
+	row: 1
+	book case: 4
+Book ID: 100332
+	row: 2
+	book case: 4
+Book ID: 100333
+	row: 3
+	book case: 4
+Book ID: 100334
+	row: 4
+	book case: 4
+Book ID: 100335
+	row: 1
+	book case: 5
+Book ID: 100336
+	row: 2
+	book case: 4
+Book ID: 100337
+	row: 3
+	book case: 4
+Book ID: 100338
+	row: 4
+	book case: 4
+Book ID: 100339
+	row: 3
+	book case: 4
+Book ID: 100340
+	row: 4
+	book case: 4
+Book ID: 100341
+	row: 1
+	book case: 5
+Book ID: 100342
+	row: 2
+	book case: 4
+Book ID: 100343
+	row: 3
+	book case: 4
+Book ID: 100344
+	row: 4
+	book case: 4
+Book ID: 100345
+	row: 2
+	book case: 4
+Book ID: 100346
+	row: 3
+	book case: 4
+Book ID: 100347
+	row: 1
+	book case: 5
+Book ID: 100348
+	row: 4
+	book case: 4
+Book ID: 100349
+	row: 3
+	book case: 4
+Book ID: 100350
+	row: 4
+	book case: 4
+Book ID: 100351
+	row: 2
+	book case: 4
+Book ID: 100352
+	row: 1
+	book case: 5
+Book ID: 100353
+	row: 3
+	book case: 4
+Book ID: 100354
+	row: 4
+	book case: 4
+Book ID: 100355
+	row: 1
+	book case: 5
+Book ID: 100356
+	row: 2
+	book case: 4
+Book ID: 100357
+	row: 3
+	book case: 4
+Book ID: 100358
+	row: 4
+	book case: 4
+Book ID: 100359
+	row: 1
+	book case: 5
+Book ID: 100360
+	row: 2
+	book case: 5
+Book ID: 100361
+	row: 3
+	book case: 4
+Book ID: 100362
+	row: 4
+	book case: 4
+Book ID: 100363
+	row: 2
+	book case: 5
+Book ID: 100364
+	row: 1
+	book case: 5
+Book ID: 100365
+	row: 3
+	book case: 4
+Book ID: 100366
+	row: 4
+	book case: 4
+Book ID: 100367
+	row: 2
+	book case: 5
+Book ID: 100368
+	row: 3
+	book case: 4
+Book ID: 100369
+	row: 4
+	book case: 4
+Book ID: 100370
+	row: 1
+	book case: 5
+Book ID: 100371
+	row: 2
+	book case: 5
+Book ID: 100372
+	row: 3
+	book case: 4
+Book ID: 100373
+	row: 4
+	book case: 4
+Book ID: 100374
+	row: 1
+	book case: 5
+Book ID: 100375
+	row: 2
+	book case: 5
+Book ID: 100376
+	row: 3
+	book case: 4
+Book ID: 100377
+	row: 4
+	book case: 5
+Book ID: 100378
+	row: 1
+	book case: 5
+Book ID: 100379
+	row: 2
+	book case: 5
+Book ID: 100380
+	row: 3
+	book case: 4
+Book ID: 100381
+	row: 1
+	book case: 5
+Book ID: 100382
+	row: 4
+	book case: 5
+Book ID: 100383
+	row: 2
+	book case: 5
+Book ID: 100384
+	row: 3
+	book case: 4
+Book ID: 100385
+	row: 1
+	book case: 5
+Book ID: 100386
+	row: 4
+	book case: 5
+Book ID: 100387
+	row: 3
+	book case: 4
+Book ID: 100388
+	row: 2
+	book case: 5
+Book ID: 100389
+	row: 1
+	book case: 5
+Book ID: 100390
+	row: 4
+	book case: 5
+Book ID: 100391
+	row: 3
+	book case: 4
+Book ID: 100392
+	row: 4
+	book case: 5
+Book ID: 100393
+	row: 1
+	book case: 5
+Book ID: 100394
+	row: 4
+	book case: 5
+Book ID: 100395
+	row: 1
+	book case: 5
+Book ID: 100396
+	row: 2
+	book case: 5
+Book ID: 100397
+	row: 1
+	book case: 5
+Book ID: 100398
+	row: 4
+	book case: 5
+Book ID: 100399
+	row: 1
+	book case: 5
+Book ID: 100400
+	row: 4
+	book case: 5
+Book ID: 100401
+	row: 2
+	book case: 5
+Book ID: 100402
+	row: 3
+	book case: 4
+Book ID: 100403
+	row: 1
+	book case: 5
+Book ID: 100404
+	row: 4
+	book case: 5
+Book ID: 100405
+	row: 3
+	book case: 4
+Book ID: 100406
+	row: 2
+	book case: 5
+Book ID: 100407
+	row: 1
+	book case: 5
+Book ID: 100408
+	row: 4
+	book case: 5
+Book ID: 100409
+	row: 3
+	book case: 5
+Book ID: 100410
+	row: 1
+	book case: 5
+Book ID: 100411
+	row: 2
+	book case: 5
+Book ID: 100412
+	row: 3
+	book case: 5
+Book ID: 100413
+	row: 4
+	book case: 5
+Book ID: 100414
+	row: 2
+	book case: 5
+Book ID: 100415
+	row: 1
+	book case: 5
+Book ID: 100416
+	row: 4
+	book case: 5
+Book ID: 100417
+	row: 3
+	book case: 5
+Book ID: 100418
+	row: 2
+	book case: 5
+Book ID: 100419
+	row: 1
+	book case: 5
+Book ID: 100420
+	row: 4
+	book case: 5
+Book ID: 100421
+	row: 2
+	book case: 5
+Book ID: 100422
+	row: 1
+	book case: 5
+Book ID: 100423
+	row: 3
+	book case: 5
+Book ID: 100424
+	row: 4
+	book case: 5
+Book ID: 100425
+	row: 2
+	book case: 5
+Book ID: 100426
+	row: 1
+	book case: 6
+Book ID: 100427
+	row: 3
+	book case: 5
+Book ID: 100428
+	row: 4
+	book case: 5
+Book ID: 100429
+	row: 2
+	book case: 5
+Book ID: 100430
+	row: 3
+	book case: 5
+Book ID: 100431
+	row: 2
+	book case: 5
+Book ID: 100432
+	row: 4
+	book case: 5
+Book ID: 100433
+	row: 3
+	book case: 5
+Book ID: 100434
+	row: 1
+	book case: 6
+Book ID: 100435
+	row: 2
+	book case: 5
+Book ID: 100436
+	row: 4
+	book case: 5
+Book ID: 100437
+	row: 3
+	book case: 5
+Book ID: 100438
+	row: 2
+	book case: 5
+Book ID: 100439
+	row: 1
+	book case: 6
+Book ID: 100440
+	row: 4
+	book case: 5
+Book ID: 100441
+	row: 3
+	book case: 5
+Book ID: 100442
+	row: 2
+	book case: 5
+Book ID: 100443
+	row: 1
+	book case: 6
+Book ID: 100444
+	row: 4
+	book case: 5
+Book ID: 100445
+	row: 2
+	book case: 5
+Book ID: 100446
+	row: 3
+	book case: 5
+Book ID: 100447
+	row: 1
+	book case: 6
+Book ID: 100448
+	row: 4
+	book case: 5
+Book ID: 100449
+	row: 2
+	book case: 5
+Book ID: 100450
+	row: 3
+	book case: 5
+Book ID: 100451
+	row: 1
+	book case: 6
+Book ID: 100452
+	row: 4
+	book case: 5
+Book ID: 100453
+	row: 2
+	book case: 6
+Book ID: 100454
+	row: 1
+	book case: 6
+Book ID: 100455
+	row: 3
+	book case: 5
+Book ID: 100456
+	row: 4
+	book case: 5
+Book ID: 100457
+	row: 2
+	book case: 6
+Book ID: 100458
+	row: 1
+	book case: 6
+Book ID: 100459
+	row: 4
+	book case: 5
+Book ID: 100460
+	row: 1
+	book case: 6
+Book ID: 100461
+	row: 3
+	book case: 5
+Book ID: 100462
+	row: 2
+	book case: 6
+Book ID: 100463
+	row: 4
+	book case: 6
+Book ID: 100464
+	row: 3
+	book case: 5
+Book ID: 100465
+	row: 2
+	book case: 6
+Book ID: 100466
+	row: 1
+	book case: 6
+Book ID: 100467
+	row: 4
+	book case: 6
+Book ID: 100468
+	row: 2
+	book case: 6
+Book ID: 100469
+	row: 3
+	book case: 5
+Book ID: 100470
+	row: 1
+	book case: 6
+Book ID: 100471
+	row: 4
+	book case: 6
+Book ID: 100472
+	row: 2
+	book case: 6
+Book ID: 100473
+	row: 1
+	book case: 6
+Book ID: 100474
+	row: 3
+	book case: 5
+Book ID: 100475
+	row: 4
+	book case: 6
+Book ID: 100476
+	row: 2
+	book case: 6
+Book ID: 100477
+	row: 1
+	book case: 6
+Book ID: 100478
+	row: 4
+	book case: 6
+Book ID: 100479
+	row: 3
+	book case: 5
+Book ID: 100480
+	row: 2
+	book case: 6
+Book ID: 100481
+	row: 1
+	book case: 6
+Book ID: 100482
+	row: 4
+	book case: 6
+Book ID: 100483
+	row: 3
+	book case: 5
+Book ID: 100484
+	row: 2
+	book case: 6
+Book ID: 100485
+	row: 1
+	book case: 6
+Book ID: 100486
+	row: 4
+	book case: 6
+Book ID: 100487
+	row: 3
+	book case: 5
+Book ID: 100488
+	row: 2
+	book case: 6
+Book ID: 100489
+	row: 1
+	book case: 6
+Book ID: 100490
+	row: 2
+	book case: 6
+Book ID: 100491
+	row: 4
+	book case: 6
+Book ID: 100492
+	row: 1
+	book case: 6
+Book ID: 100493
+	row: 3
+	book case: 5
+Book ID: 100494
+	row: 2
+	book case: 6
+Book ID: 100495
+	row: 1
+	book case: 6
+Book ID: 100496
+	row: 4
+	book case: 6
+Book ID: 100497
+	row: 3
+	book case: 5
+Book ID: 100498
+	row: 2
+	book case: 6
+Book ID: 100499
+	row: 1
+	book case: 6
+Book ID: 100500
+	row: 4
+	book case: 6
+Book ID: 100501
+	row: 2
+	book case: 6
+Book ID: 100502
+	row: 3
+	book case: 5
+Book ID: 100503
+	row: 4
+	book case: 6
+Book ID: 100504
+	row: 3
+	book case: 5
+Book ID: 100505
+	row: 1
+	book case: 6
+Book ID: 100506
+	row: 2
+	book case: 6
+Book ID: 100507
+	row: 4
+	book case: 6
+Book ID: 100508
+	row: 3
+	book case: 6
+Book ID: 100509
+	row: 2
+	book case: 6
+Book ID: 100510
+	row: 4
+	book case: 6
+Book ID: 100511
+	row: 1
+	book case: 6
+Book ID: 100512
+	row: 3
+	book case: 6
+Book ID: 100513
+	row: 2
+	book case: 6
+Book ID: 100514
+	row: 4
+	book case: 6
+Book ID: 100515
+	row: 2
+	book case: 6
+Book ID: 100516
+	row: 1
+	book case: 6
+Book ID: 100517
+	row: 3
+	book case: 6
+Book ID: 100518
+	row: 4
+	book case: 6
+Book ID: 100519
+	row: 1
+	book case: 6
+Book ID: 100520
+	row: 2
+	book case: 6
+Book ID: 100521
+	row: 4
+	book case: 6
+Book ID: 100522
+	row: 3
+	book case: 6
+Book ID: 100523
+	row: 2
+	book case: 6
+Book ID: 100524
+	row: 1
+	book case: 7
+Book ID: 100525
+	row: 4
+	book case: 6
+Book ID: 100526
+	row: 2
+	book case: 6
+Book ID: 100527
+	row: 3
+	book case: 6
+Book ID: 100528
+	row: 4
+	book case: 6
+Book ID: 100529
+	row: 1
+	book case: 7
+Book ID: 100530
+	row: 2
+	book case: 6
+Book ID: 100531
+	row: 3
+	book case: 6
+Book ID: 100532
+	row: 4
+	book case: 6
+Book ID: 100533
+	row: 2
+	book case: 6
+Book ID: 100534
+	row: 3
+	book case: 6
+Book ID: 100535
+	row: 1
+	book case: 7
+Book ID: 100536
+	row: 2
+	book case: 7
+Book ID: 100537
+	row: 3
+	book case: 6
+Book ID: 100538
+	row: 2
+	book case: 7
+Book ID: 100539
+	row: 1
+	book case: 7
+Book ID: 100540
+	row: 4
+	book case: 6
+Book ID: 100541
+	row: 3
+	book case: 6
+Book ID: 100542
+	row: 1
+	book case: 7
+Book ID: 100543
+	row: 3
+	book case: 6
+Book ID: 100544
+	row: 4
+	book case: 6
+Book ID: 100545
+	row: 2
+	book case: 7
+Book ID: 100546
+	row: 1
+	book case: 7
+Book ID: 100547
+	row: 3
+	book case: 6
+Book ID: 100548
+	row: 4
+	book case: 6
+Book ID: 100549
+	row: 1
+	book case: 7
+Book ID: 100550
+	row: 3
+	book case: 6
+Book ID: 100551
+	row: 2
+	book case: 7
+Book ID: 100552
+	row: 4
+	book case: 6
+Book ID: 100553
+	row: 3
+	book case: 6
+Book ID: 100554
+	row: 1
+	book case: 7
+Book ID: 100555
+	row: 2
+	book case: 7
+Book ID: 100556
+	row: 4
+	book case: 7
+Book ID: 100557
+	row: 3
+	book case: 6
+Book ID: 100558
+	row: 1
+	book case: 7
+Book ID: 100559
+	row: 2
+	book case: 7
+Book ID: 100560
+	row: 3
+	book case: 6
+Book ID: 100561
+	row: 1
+	book case: 7
+Book ID: 100562
+	row: 4
+	book case: 7
+Book ID: 100563
+	row: 3
+	book case: 6
+Book ID: 100564
+	row: 1
+	book case: 7
+Book ID: 100565
+	row: 4
+	book case: 7
+Book ID: 100566
+	row: 2
+	book case: 7
+Book ID: 100567
+	row: 3
+	book case: 6
+Book ID: 100568
+	row: 4
+	book case: 7
+Book ID: 100569
+	row: 1
+	book case: 7
+Book ID: 100570
+	row: 2
+	book case: 7
+Book ID: 100571
+	row: 3
+	book case: 6
+Book ID: 100572
+	row: 4
+	book case: 7
+Book ID: 100573
+	row: 2
+	book case: 7
+Book ID: 100574
+	row: 1
+	book case: 7
+Book ID: 100575
+	row: 3
+	book case: 6
+Book ID: 100576
+	row: 4
+	book case: 7
+Book ID: 100577
+	row: 2
+	book case: 7
+Book ID: 100578
+	row: 4
+	book case: 7
+Book ID: 100579
+	row: 3
+	book case: 6
+Book ID: 100580
+	row: 2
+	book case: 7
+Book ID: 100581
+	row: 1
+	book case: 7
+Book ID: 100582
+	row: 4
+	book case: 7
+Book ID: 100583
+	row: 2
+	book case: 7
+Book ID: 100584
+	row: 3
+	book case: 6
+Book ID: 100585
+	row: 1
+	book case: 7
+Book ID: 100586
+	row: 4
+	book case: 7
+Book ID: 100587
+	row: 2
+	book case: 7
+Book ID: 100588
+	row: 1
+	book case: 7
+Book ID: 100589
+	row: 3
+	book case: 6
+Book ID: 100590
+	row: 4
+	book case: 7
+Book ID: 100591
+	row: 2
+	book case: 7
+Book ID: 100592
+	row: 4
+	book case: 7
+Book ID: 100593
+	row: 3
+	book case: 6
+Book ID: 100594
+	row: 2
+	book case: 7
+Book ID: 100595
+	row: 1
+	book case: 7
+Book ID: 100596
+	row: 4
+	book case: 7
+Book ID: 100597
+	row: 2
+	book case: 7
+Book ID: 100598
+	row: 3
+	book case: 7
+Book ID: 100599
+	row: 1
+	book case: 7
+Book ID: 100600
+	row: 4
+	book case: 7
+Book ID: 100601
+	row: 2
+	book case: 7
+Book ID: 100602
+	row: 4
+	book case: 7
+Book ID: 100603
+	row: 1
+	book case: 7
+Book ID: 100604
+	row: 3
+	book case: 7
+Book ID: 100605
+	row: 2
+	book case: 7
+Book ID: 100606
+	row: 4
+	book case: 7
+Book ID: 100607
+	row: 1
+	book case: 7
+Book ID: 100608
+	row: 3
+	book case: 7
+Book ID: 100609
+	row: 2
+	book case: 7
+Book ID: 100610
+	row: 4
+	book case: 7
+Book ID: 100611
+	row: 1
+	book case: 7
+Book ID: 100612
+	row: 2
+	book case: 7
+Book ID: 100613
+	row: 3
+	book case: 7
+Book ID: 100614
+	row: 4
+	book case: 7
+Book ID: 100615
+	row: 1
+	book case: 7
+Book ID: 100616
+	row: 2
+	book case: 7
+Book ID: 100617
+	row: 4
+	book case: 7
+Book ID: 100618
+	row: 3
+	book case: 7
+Book ID: 100619
+	row: 1
+	book case: 7
+Book ID: 100620
+	row: 2
+	book case: 7
+Book ID: 100621
+	row: 4
+	book case: 7
+Book ID: 100622
+	row: 1
+	book case: 8
+Book ID: 100623
+	row: 2
+	book case: 7
+Book ID: 100624
+	row: 4
+	book case: 7
+Book ID: 100625
+	row: 3
+	book case: 7
+Book ID: 100626
+	row: 1
+	book case: 8
+Book ID: 100627
+	row: 2
+	book case: 8
+Book ID: 100628
+	row: 4
+	book case: 7
+Book ID: 100629
+	row: 3
+	book case: 7
+Book ID: 100630
+	row: 1
+	book case: 8
+Book ID: 100631
+	row: 2
+	book case: 8
+Book ID: 100632
+	row: 4
+	book case: 7
+Book ID: 100633
+	row: 1
+	book case: 8
+Book ID: 100634
+	row: 2
+	book case: 8
+Book ID: 100635
+	row: 3
+	book case: 7
+Book ID: 100636
+	row: 4
+	book case: 7
+Book ID: 100637
+	row: 1
+	book case: 8
+Book ID: 100638
+	row: 2
+	book case: 8
+Book ID: 100639
+	row: 4
+	book case: 8
+Book ID: 100640
+	row: 3
+	book case: 7
+Book ID: 100641
+	row: 1
+	book case: 8
+Book ID: 100642
+	row: 4
+	book case: 8
+Book ID: 100643
+	row: 2
+	book case: 8
+Book ID: 100644
+	row: 1
+	book case: 8
+Book ID: 100645
+	row: 4
+	book case: 8
+Book ID: 100646
+	row: 2
+	book case: 8
+Book ID: 100647
+	row: 3
+	book case: 7
+Book ID: 100648
+	row: 1
+	book case: 8
+Book ID: 100649
+	row: 4
+	book case: 8
+Book ID: 100650
+	row: 2
+	book case: 8
+Book ID: 100651
+	row: 3
+	book case: 7
+Book ID: 100652
+	row: 4
+	book case: 8
+Book ID: 100653
+	row: 1
+	book case: 8
+Book ID: 100654
+	row: 2
+	book case: 8
+Book ID: 100655
+	row: 4
+	book case: 8
+Book ID: 100656
+	row: 1
+	book case: 8
+Book ID: 100657
+	row: 3
+	book case: 7
+Book ID: 100658
+	row: 2
+	book case: 8
+Book ID: 100659
+	row: 4
+	book case: 8
+Book ID: 100660
+	row: 1
+	book case: 8
+Book ID: 100661
+	row: 3
+	book case: 7
+Book ID: 100662
+	row: 2
+	book case: 8
+Book ID: 100663
+	row: 4
+	book case: 8
+Book ID: 100664
+	row: 1
+	book case: 8
+Book ID: 100665
+	row: 2
+	book case: 8
+Book ID: 100666
+	row: 4
+	book case: 8
+Book ID: 100667
+	row: 3
+	book case: 7
+Book ID: 100668
+	row: 1
+	book case: 8
+Book ID: 100669
+	row: 2
+	book case: 8
+Book ID: 100670
+	row: 4
+	book case: 8
+Book ID: 100671
+	row: 1
+	book case: 8
+Book ID: 100672
+	row: 3
+	book case: 7
+Book ID: 100673
+	row: 2
+	book case: 8
+Book ID: 100674
+	row: 4
+	book case: 8
+Book ID: 100675
+	row: 1
+	book case: 8
+Book ID: 100676
+	row: 2
+	book case: 8
+Book ID: 100677
+	row: 4
+	book case: 8
+Book ID: 100678
+	row: 3
+	book case: 7
+Book ID: 100679
+	row: 1
+	book case: 8
+Book ID: 100680
+	row: 4
+	book case: 8
+Book ID: 100681
+	row: 2
+	book case: 8
+Book ID: 100682
+	row: 1
+	book case: 8
+Book ID: 100683
+	row: 4
+	book case: 8
+Book ID: 100684
+	row: 3
+	book case: 7
+Book ID: 100685
+	row: 2
+	book case: 8
+Book ID: 100686
+	row: 1
+	book case: 8
+Book ID: 100687
+	row: 4
+	book case: 8
+Book ID: 100688
+	row: 3
+	book case: 7
+Book ID: 100689
+	row: 2
+	book case: 8
+Book ID: 100690
+	row: 1
+	book case: 8
+Book ID: 100691
+	row: 4
+	book case: 8
+Book ID: 100692
+	row: 2
+	book case: 8
+Book ID: 100693
+	row: 3
+	book case: 7
+Book ID: 100694
+	row: 1
+	book case: 8
+Book ID: 100695
+	row: 4
+	book case: 8
+Book ID: 100696
+	row: 4
+	book case: 8
+Book ID: 100697
+	row: 2
+	book case: 8
+Book ID: 100698
+	row: 1
+	book case: 8
+Book ID: 100699
+	row: 3
+	book case: 7
+Book ID: 100700
+	row: 4
+	book case: 8
+Book ID: 100701
+	row: 2
+	book case: 8
+Book ID: 100702
+	row: 1
+	book case: 8
+Book ID: 100703
+	row: 3
+	book case: 7
+Book ID: 100704
+	row: 4
+	book case: 8
+Book ID: 100705
+	row: 2
+	book case: 8
+Book ID: 100706
+	row: 1
+	book case: 8
+Book ID: 100707
+	row: 3
+	book case: 7
+Book ID: 100708
+	row: 4
+	book case: 8
+Book ID: 100709
+	row: 2
+	book case: 8
+Book ID: 100710
+	row: 1
+	book case: 9
+Book ID: 100711
+	row: 4
+	book case: 8
+Book ID: 100712
+	row: 3
+	book case: 7
+Book ID: 100713
+	row: 1
+	book case: 9
+Book ID: 100714
+	row: 2
+	book case: 8
+Book ID: 100715
+	row: 4
+	book case: 8
+Book ID: 100716
+	row: 1
+	book case: 9
+Book ID: 100717
+	row: 2
+	book case: 9
+Book ID: 100718
+	row: 4
+	book case: 9
+Book ID: 100719
+	row: 3
+	book case: 8
+Book ID: 100720
+	row: 1
+	book case: 9
+Book ID: 100721
+	row: 2
+	book case: 9
+Book ID: 100722
+	row: 4
+	book case: 9
+Book ID: 100723
+	row: 3
+	book case: 8
+Book ID: 100724
+	row: 1
+	book case: 9
+Book ID: 100725
+	row: 4
+	book case: 9
+Book ID: 100726
+	row: 2
+	book case: 9
+Book ID: 100727
+	row: 4
+	book case: 9
+Book ID: 100728
+	row: 3
+	book case: 8
+Book ID: 100729
+	row: 1
+	book case: 9
+Book ID: 100730
+	row: 2
+	book case: 9
+Book ID: 100731
+	row: 4
+	book case: 9
+Book ID: 100732
+	row: 1
+	book case: 9
+Book ID: 100733
+	row: 2
+	book case: 9
+Book ID: 100734
+	row: 3
+	book case: 8
+Book ID: 100735
+	row: 4
+	book case: 9
+Book ID: 100736
+	row: 1
+	book case: 9
+Book ID: 100737
+	row: 4
+	book case: 9
+Book ID: 100738
+	row: 2
+	book case: 9
+Book ID: 100739
+	row: 1
+	book case: 9
+Book ID: 100740
+	row: 3
+	book case: 8
+Book ID: 100741
+	row: 4
+	book case: 9
+Book ID: 100742
+	row: 2
+	book case: 9
+Book ID: 100743
+	row: 1
+	book case: 9
+Book ID: 100744
+	row: 2
+	book case: 9
+Book ID: 100745
+	row: 4
+	book case: 9
+Book ID: 100746
+	row: 3
+	book case: 8
+Book ID: 100747
+	row: 1
+	book case: 9
+Book ID: 100748
+	row: 2
+	book case: 9
+Book ID: 100749
+	row: 4
+	book case: 9
+Book ID: 100750
+	row: 3
+	book case: 8
+Book ID: 100751
+	row: 1
+	book case: 9
+Book ID: 100752
+	row: 4
+	book case: 9
+Book ID: 100753
+	row: 2
+	book case: 9
+Book ID: 100754
+	row: 4
+	book case: 9
+Book ID: 100755
+	row: 1
+	book case: 9
+Book ID: 100756
+	row: 3
+	book case: 8
+Book ID: 100757
+	row: 2
+	book case: 9
+Book ID: 100758
+	row: 4
+	book case: 9
+Book ID: 100759
+	row: 3
+	book case: 8
+Book ID: 100760
+	row: 1
+	book case: 9
+Book ID: 100761
+	row: 2
+	book case: 9
+Book ID: 100762
+	row: 4
+	book case: 9
+Book ID: 100763
+	row: 1
+	book case: 9
+Book ID: 100764
+	row: 3
+	book case: 8
+Book ID: 100765
+	row: 4
+	book case: 9
+Book ID: 100766
+	row: 2
+	book case: 9
+Book ID: 100767
+	row: 1
+	book case: 9
+Book ID: 100768
+	row: 4
+	book case: 9
+Book ID: 100769
+	row: 3
+	book case: 8
+Book ID: 100770
+	row: 1
+	book case: 9
+Book ID: 100771
+	row: 2
+	book case: 9
+Book ID: 100772
+	row: 4
+	book case: 9
+Book ID: 100773
+	row: 3
+	book case: 8
+Book ID: 100774
+	row: 2
+	book case: 9
+Book ID: 100775
+	row: 1
+	book case: 9
+Book ID: 100776
+	row: 4
+	book case: 9
+Book ID: 100777
+	row: 2
+	book case: 9
+Book ID: 100778
+	row: 1
+	book case: 9
+Book ID: 100779
+	row: 3
+	book case: 8
+Book ID: 100780
+	row: 4
+	book case: 9
+Book ID: 100781
+	row: 2
+	book case: 9
+Book ID: 100782
+	row: 1
+	book case: 9
+Book ID: 100783
+	row: 4
+	book case: 9
+Book ID: 100784
+	row: 3
+	book case: 8
+Book ID: 100785
+	row: 2
+	book case: 9
+Book ID: 100786
+	row: 4
+	book case: 9
+Book ID: 100787
+	row: 1
+	book case: 9
+Book ID: 100788
+	row: 2
+	book case: 9
+Book ID: 100789
+	row: 1
+	book case: 9
+Book ID: 100790
+	row: 4
+	book case: 9
+Book ID: 100791
+	row: 3
+	book case: 8
+Book ID: 100792
+	row: 1
+	book case: 9
+Book ID: 100793
+	row: 2
+	book case: 9
+Book ID: 100794
+	row: 4
+	book case: 9
+Book ID: 100795
+	row: 1
+	book case: 10
+Book ID: 100796
+	row: 4
+	book case: 10
+Book ID: 100797
+	row: 3
+	book case: 8
+Book ID: 100798
+	row: 2
+	book case: 9
+Book ID: 100799
+	row: 1
+	book case: 10
+Book ID: 100800
+	row: 2
+	book case: 9
+Book ID: 100801
+	row: 3
+	book case: 8
+Book ID: 100802
+	row: 4
+	book case: 10
+Book ID: 100803
+	row: 1
+	book case: 10
+Book ID: 100804
+	row: 2
+	book case: 9
+Book ID: 100805
+	row: 4
+	book case: 10
+Book ID: 100806
+	row: 3
+	book case: 8
+Book ID: 100807
+	row: 1
+	book case: 10
+Book ID: 100808
+	row: 4
+	book case: 10
+Book ID: 100809
+	row: 2
+	book case: 10
+Book ID: 100810
+	row: 1
+	book case: 10
+Book ID: 100811
+	row: 4
+	book case: 10
+Book ID: 100812
+	row: 3
+	book case: 8
+Book ID: 100813
+	row: 2
+	book case: 10
+Book ID: 100814
+	row: 1
+	book case: 10
+Book ID: 100815
+	row: 4
+	book case: 10
+Book ID: 100816
+	row: 2
+	book case: 10
+Book ID: 100817
+	row: 3
+	book case: 8
+Book ID: 100818
+	row: 1
+	book case: 10
+Book ID: 100819
+	row: 4
+	book case: 10
+Book ID: 100820
+	row: 2
+	book case: 10
+Book ID: 100821
+	row: 3
+	book case: 8
+Book ID: 100822
+	row: 4
+	book case: 10
+Book ID: 100823
+	row: 1
+	book case: 10
+Book ID: 100824
+	row: 2
+	book case: 10
+Book ID: 100825
+	row: 3
+	book case: 8
+Book ID: 100826
+	row: 4
+	book case: 10
+Book ID: 100827
+	row: 3
+	book case: 8
+Book ID: 100828
+	row: 2
+	book case: 10
+Book ID: 100829
+	row: 1
+	book case: 10
+Book ID: 100830
+	row: 4
+	book case: 10
+Book ID: 100831
+	row: 3
+	book case: 9
+Book ID: 100832
+	row: 2
+	book case: 10
+Book ID: 100833
+	row: 4
+	book case: 10
+Book ID: 100834
+	row: 1
+	book case: 10
+Book ID: 100835
+	row: 3
+	book case: 9
+Book ID: 100836
+	row: 2
+	book case: 10
+Book ID: 100837
+	row: 4
+	book case: 10
+Book ID: 100838
+	row: 3
+	book case: 9
+Book ID: 100839
+	row: 2
+	book case: 10
+Book ID: 100840
+	row: 1
+	book case: 10
+Book ID: 100841
+	row: 4
+	book case: 10
+Book ID: 100842
+	row: 3
+	book case: 9
+Book ID: 100843
+	row: 2
+	book case: 10
+Book ID: 100844
+	row: 4
+	book case: 10
+Book ID: 100845
+	row: 1
+	book case: 10
+Book ID: 100846
+	row: 3
+	book case: 9
+Book ID: 100847
+	row: 2
+	book case: 10
+Book ID: 100848
+	row: 4
+	book case: 10
+Book ID: 100849
+	row: 1
+	book case: 10
+Book ID: 100850
+	row: 4
+	book case: 10
+Book ID: 100851
+	row: 2
+	book case: 10
+Book ID: 100852
+	row: 3
+	book case: 9
+Book ID: 100853
+	row: 1
+	book case: 10
+Book ID: 100854
+	row: 4
+	book case: 10
+Book ID: 100855
+	row: 2
+	book case: 10
+Book ID: 100856
+	row: 1
+	book case: 10
+Book ID: 100857
+	row: 4
+	book case: 10
+Book ID: 100858
+	row: 3
+	book case: 9
+Book ID: 100859
+	row: 1
+	book case: 10
+Book ID: 100860
+	row: 2
+	book case: 10
+Book ID: 100861
+	row: 4
+	book case: 10
+Book ID: 100862
+	row: 3
+	book case: 9
+Book ID: 100863
+	row: 1
+	book case: 10
+Book ID: 100864
+	row: 2
+	book case: 10
+Book ID: 100865
+	row: 4
+	book case: 10
+Book ID: 100866
+	row: 3
+	book case: 9
+Book ID: 100867
+	row: 2
+	book case: 10
+Book ID: 100868
+	row: 1
+	book case: 10
+Book ID: 100869
+	row: 3
+	book case: 9
+Book ID: 100870
+	row: 4
+	book case: 10
+Book ID: 100871
+	row: 2
+	book case: 10
+Book ID: 100872
+	row: 4
+	book case: 10
+Book ID: 100873
+	row: 3
+	book case: 9
+Book ID: 100874
+	row: 2
+	book case: 10
+Book ID: 100875
+	row: 1
+	book case: 10
+Book ID: 100876
+	row: 4
+	book case: 10
+Book ID: 100877
+	row: 3
+	book case: 9
+Book ID: 100878
+	row: 2
+	book case: 10
+Book ID: 100879
+	row: 1
+	book case: 10
+Book ID: 100880
+	row: 4
+	book case: 11
+Book ID: 100881
+	row: 1
+	book case: 10
+Book ID: 100882
+	row: 2
+	book case: 10
+Book ID: 100883
+	row: 3
+	book case: 9
+Book ID: 100884
+	row: 4
+	book case: 11
+Book ID: 100885
+	row: 1
+	book case: 10
+Book ID: 100886
+	row: 2
+	book case: 10
+Book ID: 100887
+	row: 3
+	book case: 9
+Book ID: 100888
+	row: 4
+	book case: 11
+Book ID: 100889
+	row: 1
+	book case: 10
+Book ID: 100890
+	row: 4
+	book case: 11
+Book ID: 100891
+	row: 2
+	book case: 10
+Book ID: 100892
+	row: 3
+	book case: 9
+Book ID: 100893
+	row: 4
+	book case: 11
+Book ID: 100894
+	row: 1
+	book case: 11
+Book ID: 100895
+	row: 2
+	book case: 10
+Book ID: 100896
+	row: 4
+	book case: 11
+Book ID: 100897
+	row: 3
+	book case: 9
+Book ID: 100898
+	row: 1
+	book case: 11
+Book ID: 100899
+	row: 2
+	book case: 11
+Book ID: 100900
+	row: 4
+	book case: 11
+Book ID: 100901
+	row: 3
+	book case: 9
+Book ID: 100902
+	row: 1
+	book case: 11
+Book ID: 100903
+	row: 2
+	book case: 11
+Book ID: 100904
+	row: 4
+	book case: 11
+Book ID: 100905
+	row: 3
+	book case: 9
+Book ID: 100906
+	row: 1
+	book case: 11
+Book ID: 100907
+	row: 2
+	book case: 11
+Book ID: 100908
+	row: 4
+	book case: 11
+Book ID: 100909
+	row: 1
+	book case: 11
+Book ID: 100910
+	row: 3
+	book case: 9
+Book ID: 100911
+	row: 4
+	book case: 11
+Book ID: 100912
+	row: 2
+	book case: 11
+Book ID: 100913
+	row: 1
+	book case: 11
+Book ID: 100914
+	row: 4
+	book case: 11
+Book ID: 100915
+	row: 2
+	book case: 11
+Book ID: 100916
+	row: 3
+	book case: 9
+Book ID: 100917
+	row: 1
+	book case: 11
+Book ID: 100918
+	row: 4
+	book case: 11
+Book ID: 100919
+	row: 2
+	book case: 11
+Book ID: 100920
+	row: 3
+	book case: 9
+Book ID: 100921
+	row: 1
+	book case: 11
+Book ID: 100922
+	row: 4
+	book case: 11
+Book ID: 100923
+	row: 2
+	book case: 11
+Book ID: 100924
+	row: 3
+	book case: 9
+Book ID: 100925
+	row: 1
+	book case: 11
+Book ID: 100926
+	row: 4
+	book case: 11
+Book ID: 100927
+	row: 2
+	book case: 11
+Book ID: 100928
+	row: 3
+	book case: 9
+Book ID: 100929
+	row: 1
+	book case: 11
+Book ID: 100930
+	row: 4
+	book case: 11
+Book ID: 100931
+	row: 2
+	book case: 11
+Book ID: 100932
+	row: 4
+	book case: 11
+Book ID: 100933
+	row: 2
+	book case: 11
+Book ID: 100934
+	row: 1
+	book case: 11
+Book ID: 100935
+	row: 3
+	book case: 10
+Book ID: 100936
+	row: 2
+	book case: 11
+Book ID: 100937
+	row: 4
+	book case: 11
+Book ID: 100938
+	row: 3
+	book case: 10
+Book ID: 100939
+	row: 1
+	book case: 11
+Book ID: 100940
+	row: 2
+	book case: 11
+Book ID: 100941
+	row: 3
+	book case: 10
+Book ID: 100942
+	row: 4
+	book case: 11
+Book ID: 100943
+	row: 2
+	book case: 11
+Book ID: 100944
+	row: 1
+	book case: 11
+Book ID: 100945
+	row: 3
+	book case: 10
+Book ID: 100946
+	row: 1
+	book case: 11
+Book ID: 100947
+	row: 2
+	book case: 11
+Book ID: 100948
+	row: 3
+	book case: 10
+Book ID: 100949
+	row: 4
+	book case: 11
+Book ID: 100950
+	row: 1
+	book case: 11
+Book ID: 100951
+	row: 2
+	book case: 11
+Book ID: 100952
+	row: 4
+	book case: 11
+Book ID: 100953
+	row: 1
+	book case: 11
+Book ID: 100954
+	row: 2
+	book case: 11
+Book ID: 100955
+	row: 3
+	book case: 10
+Book ID: 100956
+	row: 4
+	book case: 11
+Book ID: 100957
+	row: 1
+	book case: 11
+Book ID: 100958
+	row: 2
+	book case: 11
+Book ID: 100959
+	row: 4
+	book case: 11
+Book ID: 100960
+	row: 1
+	book case: 11
+Book ID: 100961
+	row: 4
+	book case: 11
+Book ID: 100962
+	row: 3
+	book case: 10
+Book ID: 100963
+	row: 2
+	book case: 11
+Book ID: 100964
+	row: 4
+	book case: 12
+Book ID: 100965
+	row: 3
+	book case: 10
+Book ID: 100966
+	row: 1
+	book case: 11
+Book ID: 100967
+	row: 2
+	book case: 11
+Book ID: 100968
+	row: 4
+	book case: 12
+Book ID: 100969
+	row: 3
+	book case: 10
+Book ID: 100970
+	row: 2
+	book case: 11
+Book ID: 100971
+	row: 4
+	book case: 12
+Book ID: 100972
+	row: 3
+	book case: 10
+Book ID: 100973
+	row: 1
+	book case: 11
+Book ID: 100974
+	row: 4
+	book case: 12
+Book ID: 100975
+	row: 2
+	book case: 11
+Book ID: 100976
+	row: 3
+	book case: 10
+Book ID: 100977
+	row: 4
+	book case: 12
+Book ID: 100978
+	row: 1
+	book case: 11
+Book ID: 100979
+	row: 2
+	book case: 11
+Book ID: 100980
+	row: 4
+	book case: 12
+Book ID: 100981
+	row: 2
+	book case: 11
+Book ID: 100982
+	row: 1
+	book case: 11
+Book ID: 100983
+	row: 3
+	book case: 10
+Book ID: 100984
+	row: 4
+	book case: 12
+Book ID: 100985
+	row: 1
+	book case: 11
+Book ID: 100986
+	row: 2
+	book case: 12
+Book ID: 100987
+	row: 4
+	book case: 12
+Book ID: 100988
+	row: 3
+	book case: 10
+Book ID: 100989
+	row: 1
+	book case: 12
+Book ID: 100990
+	row: 2
+	book case: 12
+Book ID: 100991
+	row: 4
+	book case: 12
+Book ID: 100992
+	row: 1
+	book case: 12
+Book ID: 100993
+	row: 2
+	book case: 12
+Book ID: 100994
+	row: 3
+	book case: 10
+Book ID: 100995
+	row: 4
+	book case: 12
+Book ID: 100996
+	row: 1
+	book case: 12
+Book ID: 100997
+	row: 2
+	book case: 12
+Book ID: 100998
+	row: 4
+	book case: 12
+Book ID: 100999
+	row: 3
+	book case: 10
+Book ID: 101000
+	row: 2
+	book case: 12
+Book ID: 101001
+	row: 1
+	book case: 12
+Book ID: 101002
+	row: 4
+	book case: 12
+Book ID: 101003
+	row: 3
+	book case: 10
+Book ID: 101004
+	row: 2
+	book case: 12
+Book ID: 101005
+	row: 1
+	book case: 12
+Book ID: 101006
+	row: 4
+	book case: 12
+Book ID: 101007
+	row: 4
+	book case: 12
+Book ID: 101008
+	row: 1
+	book case: 12
+Book ID: 101009
+	row: 3
+	book case: 10
+Book ID: 101010
+	row: 2
+	book case: 12
+Book ID: 101011
+	row: 1
+	book case: 12
+Book ID: 101012
+	row: 4
+	book case: 12
+Book ID: 101013
+	row: 2
+	book case: 12
+Book ID: 101014
+	row: 4
+	book case: 12
+Book ID: 101015
+	row: 1
+	book case: 12
+Book ID: 101016
+	row: 3
+	book case: 10
+Book ID: 101017
+	row: 2
+	book case: 12
+Book ID: 101018
+	row: 1
+	book case: 12
+Book ID: 101019
+	row: 4
+	book case: 12
+Book ID: 101020
+	row: 3
+	book case: 10
+Book ID: 101021
+	row: 4
+	book case: 12
+Book ID: 101022
+	row: 2
+	book case: 12
+Book ID: 101023
+	row: 1
+	book case: 12
+Book ID: 101024
+	row: 3
+	book case: 10
+Book ID: 101025
+	row: 2
+	book case: 12
+Book ID: 101026
+	row: 4
+	book case: 12
+Book ID: 101027
+	row: 1
+	book case: 12
+Book ID: 101028
+	row: 3
+	book case: 10
+Book ID: 101029
+	row: 2
+	book case: 12
+Book ID: 101030
+	row: 4
+	book case: 12
+Book ID: 101031
+	row: 2
+	book case: 12
+Book ID: 101032
+	row: 3
+	book case: 10
+Book ID: 101033
+	row: 4
+	book case: 12
+Book ID: 101034
+	row: 1
+	book case: 12
+Book ID: 101035
+	row: 2
+	book case: 12
+Book ID: 101036
+	row: 3
+	book case: 10
+Book ID: 101037
+	row: 4
+	book case: 12
+Book ID: 101038
+	row: 2
+	book case: 12
+Book ID: 101039
+	row: 3
+	book case: 11
+Book ID: 101040
+	row: 4
+	book case: 12
+Book ID: 101041
+	row: 2
+	book case: 12
+Book ID: 101042
+	row: 1
+	book case: 12
+Book ID: 101043
+	row: 5
+	book case: 1
+Book ID: 101044
+	row: 2
+	book case: 12
+Book ID: 101045
+	row: 5
+	book case: 1
+Book ID: 101046
+	row: 3
+	book case: 11
+Book ID: 101047
+	row: 2
+	book case: 12
+Book ID: 101048
+	row: 1
+	book case: 12
+Book ID: 101049
+	row: 5
+	book case: 1
+Book ID: 101050
+	row: 2
+	book case: 12
+Book ID: 101051
+	row: 1
+	book case: 12
+Book ID: 101052
+	row: 3
+	book case: 11
+Book ID: 101053
+	row: 5
+	book case: 1
+Book ID: 101054
+	row: 2
+	book case: 12
+Book ID: 101055
+	row: 1
+	book case: 12
+Book ID: 101056
+	row: 5
+	book case: 1
+Book ID: 101057
+	row: 3
+	book case: 11
+Book ID: 101058
+	row: 2
+	book case: 12
+Book ID: 101059
+	row: 1
+	book case: 12
+Book ID: 101060
+	row: 5
+	book case: 1
+Book ID: 101061
+	row: 2
+	book case: 12
+Book ID: 101062
+	row: 1
+	book case: 12
+Book ID: 101063
+	row: 3
+	book case: 11
+Book ID: 101064
+	row: 5
+	book case: 1
+Book ID: 101065
+	row: 2
+	book case: 12
+Book ID: 101066
+	row: 1
+	book case: 12
+Book ID: 101067
+	row: 1
+	book case: 12
+Book ID: 101068
+	row: 5
+	book case: 1
+Book ID: 101069
+	row: 6
+	book case: 1
+Book ID: 101070
+	row: 3
+	book case: 11
+Book ID: 101071
+	row: 6
+	book case: 1
+Book ID: 101072
+	row: 1
+	book case: 12
+Book ID: 101073
+	row: 3
+	book case: 11
+Book ID: 101074
+	row: 6
+	book case: 1
+Book ID: 101075
+	row: 5
+	book case: 1
+Book ID: 101076
+	row: 1
+	book case: 12
+Book ID: 101077
+	row: 3
+	book case: 11
+Book ID: 101078
+	row: 6
+	book case: 1
+Book ID: 101079
+	row: 1
+	book case: 12
+Book ID: 101080
+	row: 5
+	book case: 1
+Book ID: 101081
+	row: 6
+	book case: 1
+Book ID: 101082
+	row: 3
+	book case: 11
+Book ID: 101083
+	row: 7
+	book case: 1
+Book ID: 101084
+	row: 6
+	book case: 1
+Book ID: 101085
+	row: 7
+	book case: 1
+Book ID: 101086
+	row: 6
+	book case: 1
+Book ID: 101087
+	row: 7
+	book case: 1
+Book ID: 101088
+	row: 6
+	book case: 1
+Book ID: 101089
+	row: 7
+	book case: 1
+Book ID: 101090
+	row: 6
+	book case: 1
+Book ID: 101091
+	row: 7
+	book case: 1
+Book ID: 101092
+	row: 7
+	book case: 1
+Book ID: 101093
+	row: 5
+	book case: 1
+Book ID: 101094
+	row: 3
+	book case: 11
+Book ID: 101095
+	row: 6
+	book case: 1
+Book ID: 101096
+	row: 7
+	book case: 1
+Book ID: 101097
+	row: 3
+	book case: 11
+Book ID: 101098
+	row: 5
+	book case: 1
+Book ID: 101099
+	row: 6
+	book case: 1
+Book ID: 101100
+	row: 3
+	book case: 11
+Book ID: 101101
+	row: 7
+	book case: 1
+Book ID: 101102
+	row: 6
+	book case: 1
+Book ID: 101103
+	row: 3
+	book case: 11
+Book ID: 101104
+	row: 5
+	book case: 1
+Book ID: 101105
+	row: 6
+	book case: 1
+Book ID: 101106
+	row: 3
+	book case: 11
+Book ID: 101107
+	row: 7
+	book case: 1
+Book ID: 101108
+	row: 6
+	book case: 1
+Book ID: 101109
+	row: 3
+	book case: 11
+Book ID: 101110
+	row: 5
+	book case: 1
+Book ID: 101111
+	row: 6
+	book case: 1
+Book ID: 101112
+	row: 7
+	book case: 1
+Book ID: 101113
+	row: 3
+	book case: 11
+Book ID: 101114
+	row: 5
+	book case: 1
+Book ID: 101115
+	row: 6
+	book case: 1
+Book ID: 101116
+	row: 3
+	book case: 11
+Book ID: 101117
+	row: 7
+	book case: 1
+Book ID: 101118
+	row: 5
+	book case: 1
+Book ID: 101119
+	row: 6
+	book case: 1
+Book ID: 101120
+	row: 3
+	book case: 11
+Book ID: 101121
+	row: 7
+	book case: 1
+Book ID: 101122
+	row: 5
+	book case: 1
+Book ID: 101123
+	row: 6
+	book case: 1
+Book ID: 101124
+	row: 3
+	book case: 11
+Book ID: 101125
+	row: 7
+	book case: 1
+Book ID: 101126
+	row: 5
+	book case: 1
+Book ID: 101127
+	row: 6
+	book case: 1
+Book ID: 101128
+	row: 3
+	book case: 11
+Book ID: 101129
+	row: 7
+	book case: 1
+Book ID: 101130
+	row: 5
+	book case: 1
+Book ID: 101131
+	row: 6
+	book case: 1
+Book ID: 101132
+	row: 3
+	book case: 11
+Book ID: 101133
+	row: 5
+	book case: 1
+Book ID: 101134
+	row: 7
+	book case: 1
+Book ID: 101135
+	row: 3
+	book case: 11
+Book ID: 101136
+	row: 6
+	book case: 1
+Book ID: 101137
+	row: 5
+	book case: 1
+Book ID: 101138
+	row: 3
+	book case: 11
+Book ID: 101139
+	row: 7
+	book case: 1
+Book ID: 101140
+	row: 6
+	book case: 1
+Book ID: 101141
+	row: 5
+	book case: 1
+Book ID: 101142
+	row: 7
+	book case: 1
+Book ID: 101143
+	row: 3
+	book case: 12
+Book ID: 101144
+	row: 6
+	book case: 1
+Book ID: 101145
+	row: 5
+	book case: 1
+Book ID: 101146
+	row: 7
+	book case: 1
+Book ID: 101147
+	row: 3
+	book case: 12
+Book ID: 101148
+	row: 6
+	book case: 2
+Book ID: 101149
+	row: 7
+	book case: 1
+Book ID: 101150
+	row: 5
+	book case: 2
+Book ID: 101151
+	row: 3
+	book case: 12
+Book ID: 101152
+	row: 6
+	book case: 2
+Book ID: 101153
+	row: 3
+	book case: 12
+Book ID: 101154
+	row: 7
+	book case: 1
+Book ID: 101155
+	row: 5
+	book case: 2
+Book ID: 101156
+	row: 6
+	book case: 2
+Book ID: 101157
+	row: 3
+	book case: 12
+Book ID: 101158
+	row: 5
+	book case: 2
+Book ID: 101159
+	row: 7
+	book case: 1
+Book ID: 101160
+	row: 6
+	book case: 2
+Book ID: 101161
+	row: 3
+	book case: 12
+Book ID: 101162
+	row: 5
+	book case: 2
+Book ID: 101163
+	row: 6
+	book case: 2
+Book ID: 101164
+	row: 7
+	book case: 1
+Book ID: 101165
+	row: 3
+	book case: 12
+Book ID: 101166
+	row: 5
+	book case: 2
+Book ID: 101167
+	row: 6
+	book case: 2
+Book ID: 101168
+	row: 7
+	book case: 1
+Book ID: 101169
+	row: 5
+	book case: 2
+Book ID: 101170
+	row: 3
+	book case: 12
+Book ID: 101171
+	row: 6
+	book case: 2
+Book ID: 101172
+	row: 7
+	book case: 2
+Book ID: 101173
+	row: 5
+	book case: 2
+Book ID: 101174
+	row: 3
+	book case: 12
+Book ID: 101175
+	row: 7
+	book case: 2
+Book ID: 101176
+	row: 6
+	book case: 2
+Book ID: 101177
+	row: 5
+	book case: 2
+Book ID: 101178
+	row: 3
+	book case: 12
+Book ID: 101179
+	row: 6
+	book case: 2
+Book ID: 101180
+	row: 7
+	book case: 2
+Book ID: 101181
+	row: 5
+	book case: 2
+Book ID: 101182
+	row: 6
+	book case: 2
+Book ID: 101183
+	row: 3
+	book case: 12
+Book ID: 101184
+	row: 5
+	book case: 2
+Book ID: 101185
+	row: 7
+	book case: 2
+Book ID: 101186
+	row: 6
+	book case: 2
+Book ID: 101187
+	row: 3
+	book case: 12
+Book ID: 101188
+	row: 5
+	book case: 2
+Book ID: 101189
+	row: 6
+	book case: 2
+Book ID: 101190
+	row: 7
+	book case: 2
+Book ID: 101191
+	row: 3
+	book case: 12
+Book ID: 101192
+	row: 5
+	book case: 2
+Book ID: 101193
+	row: 6
+	book case: 2
+Book ID: 101194
+	row: 3
+	book case: 12
+Book ID: 101195
+	row: 5
+	book case: 2
+Book ID: 101196
+	row: 6
+	book case: 2
+Book ID: 101197
+	row: 7
+	book case: 2
+Book ID: 101198
+	row: 3
+	book case: 12
+Book ID: 101199
+	row: 5
+	book case: 2
+Book ID: 101200
+	row: 6
+	book case: 2
+Book ID: 101201
+	row: 3
+	book case: 12
+Book ID: 101202
+	row: 5
+	book case: 2
+Book ID: 101203
+	row: 7
+	book case: 2
+Book ID: 101204
+	row: 3
+	book case: 12
+Book ID: 101205
+	row: 6
+	book case: 2
+Book ID: 101206
+	row: 5
+	book case: 2
+Book ID: 101207
+	row: 7
+	book case: 2
+Book ID: 101208
+	row: 3
+	book case: 12
+Book ID: 101209
+	row: 5
+	book case: 2
+Book ID: 101210
+	row: 6
+	book case: 2
+Book ID: 101211
+	row: 3
+	book case: 12
+Book ID: 101212
+	row: 7
+	book case: 2
+Book ID: 101213
+	row: 7
+	book case: 2
+Book ID: 101214
+	row: 5
+	book case: 2
+Book ID: 101215
+	row: 3
+	book case: 12
+Book ID: 101216
+	row: 7
+	book case: 2
+Book ID: 101217
+	row: 6
+	book case: 2
+Book ID: 101218
+	row: 5
+	book case: 2
+Book ID: 101219
+	row: 7
+	book case: 2
+Book ID: 101220
+	row: 3
+	book case: 12
+Book ID: 101221
+	row: 6
+	book case: 2
+Book ID: 101222
+	row: 7
+	book case: 2
+Book ID: 101223
+	row: 5
+	book case: 2
+Book ID: 101224
+	row: 6
+	book case: 2
+Book ID: 101225
+	row: 3
+	book case: 12
+Book ID: 101226
+	row: 7
+	book case: 2
+Book ID: 101227
+	row: 6
+	book case: 2
+Book ID: 101228
+	row: 5
+	book case: 2
+Book ID: 101229
+	row: 7
+	book case: 2
+Book ID: 101230
+	row: 3
+	book case: 12
+Book ID: 101231
+	row: 6
+	book case: 2
+Book ID: 101232
+	row: 5
+	book case: 2
+Book ID: 101233
+	row: 7
+	book case: 2
+Book ID: 101234
+	row: 8
+	book case: 1
+Book ID: 101235
+	row: 8
+	book case: 1
+Book ID: 101236
+	row: 6
+	book case: 2
+Book ID: 101237
+	row: 8
+	book case: 1
+Book ID: 101238
+	row: 5
+	book case: 2
+Book ID: 101239
+	row: 7
+	book case: 2
+Book ID: 101240
+	row: 8
+	book case: 1
+Book ID: 101241
+	row: 6
+	book case: 3
+Book ID: 101242
+	row: 7
+	book case: 2
+Book ID: 101243
+	row: 5
+	book case: 3
+Book ID: 101244
+	row: 6
+	book case: 3
+Book ID: 101245
+	row: 7
+	book case: 2
+Book ID: 101246
+	row: 8
+	book case: 1
+Book ID: 101247
+	row: 6
+	book case: 3
+Book ID: 101248
+	row: 5
+	book case: 3
+Book ID: 101249
+	row: 7
+	book case: 2
+Book ID: 101250
+	row: 8
+	book case: 1
+Book ID: 101251
+	row: 6
+	book case: 3
+Book ID: 101252
+	row: 5
+	book case: 3
+Book ID: 101253
+	row: 7
+	book case: 2
+Book ID: 101254
+	row: 8
+	book case: 1
+Book ID: 101255
+	row: 6
+	book case: 3
+Book ID: 101256
+	row: 5
+	book case: 3
+Book ID: 101257
+	row: 7
+	book case: 2
+Book ID: 101258
+	row: 8
+	book case: 1
+Book ID: 101259
+	row: 6
+	book case: 3
+Book ID: 101260
+	row: 5
+	book case: 3
+Book ID: 101261
+	row: 7
+	book case: 2
+Book ID: 101262
+	row: 8
+	book case: 1
+Book ID: 101263
+	row: 6
+	book case: 3
+Book ID: 101264
+	row: 5
+	book case: 3
+Book ID: 101265
+	row: 7
+	book case: 3
+Book ID: 101266
+	row: 8
+	book case: 1
+Book ID: 101267
+	row: 6
+	book case: 3
+Book ID: 101268
+	row: 5
+	book case: 3
+Book ID: 101269
+	row: 6
+	book case: 3
+Book ID: 101270
+	row: 7
+	book case: 3
+Book ID: 101271
+	row: 5
+	book case: 3
+Book ID: 101272
+	row: 6
+	book case: 3
+Book ID: 101273
+	row: 7
+	book case: 3
+Book ID: 101274
+	row: 5
+	book case: 3
+Book ID: 101275
+	row: 7
+	book case: 3
+Book ID: 101276
+	row: 8
+	book case: 1
+Book ID: 101277
+	row: 5
+	book case: 3
+Book ID: 101278
+	row: 6
+	book case: 3
+Book ID: 101279
+	row: 7
+	book case: 3
+Book ID: 101280
+	row: 8
+	book case: 1
+Book ID: 101281
+	row: 5
+	book case: 3
+Book ID: 101282
+	row: 7
+	book case: 3
+Book ID: 101283
+	row: 8
+	book case: 1
+Book ID: 101284
+	row: 5
+	book case: 3
+Book ID: 101285
+	row: 7
+	book case: 3
+Book ID: 101286
+	row: 6
+	book case: 3
+Book ID: 101287
+	row: 5
+	book case: 3
+Book ID: 101288
+	row: 8
+	book case: 1
+Book ID: 101289
+	row: 7
+	book case: 3
+Book ID: 101290
+	row: 5
+	book case: 3
+Book ID: 101291
+	row: 7
+	book case: 3
+Book ID: 101292
+	row: 6
+	book case: 3
+Book ID: 101293
+	row: 8
+	book case: 1
+Book ID: 101294
+	row: 5
+	book case: 3
+Book ID: 101295
+	row: 7
+	book case: 3
+Book ID: 101296
+	row: 5
+	book case: 3
+Book ID: 101297
+	row: 8
+	book case: 1
+Book ID: 101298
+	row: 7
+	book case: 3
+Book ID: 101299
+	row: 6
+	book case: 3
+Book ID: 101300
+	row: 5
+	book case: 3
+Book ID: 101301
+	row: 7
+	book case: 3
+Book ID: 101302
+	row: 8
+	book case: 1
+Book ID: 101303
+	row: 5
+	book case: 3
+Book ID: 101304
+	row: 6
+	book case: 3
+Book ID: 101305
+	row: 7
+	book case: 3
+Book ID: 101306
+	row: 5
+	book case: 3
+Book ID: 101307
+	row: 8
+	book case: 1
+Book ID: 101308
+	row: 6
+	book case: 3
+Book ID: 101309
+	row: 7
+	book case: 3
+Book ID: 101310
+	row: 5
+	book case: 3
+Book ID: 101311
+	row: 8
+	book case: 1
+Book ID: 101312
+	row: 7
+	book case: 3
+Book ID: 101313
+	row: 5
+	book case: 3
+Book ID: 101314
+	row: 6
+	book case: 3
+Book ID: 101315
+	row: 8
+	book case: 1
+Book ID: 101316
+	row: 5
+	book case: 3
+Book ID: 101317
+	row: 7
+	book case: 3
+Book ID: 101318
+	row: 5
+	book case: 3
+Book ID: 101319
+	row: 6
+	book case: 3
+Book ID: 101320
+	row: 7
+	book case: 3
+Book ID: 101321
+	row: 8
+	book case: 1
+Book ID: 101322
+	row: 5
+	book case: 4
+Book ID: 101323
+	row: 7
+	book case: 3
+Book ID: 101324
+	row: 6
+	book case: 3
+Book ID: 101325
+	row: 8
+	book case: 1
+Book ID: 101326
+	row: 7
+	book case: 3
+Book ID: 101327
+	row: 5
+	book case: 4
+Book ID: 101328
+	row: 6
+	book case: 3
+Book ID: 101329
+	row: 7
+	book case: 3
+Book ID: 101330
+	row: 5
+	book case: 4
+Book ID: 101331
+	row: 8
+	book case: 1
+Book ID: 101332
+	row: 7
+	book case: 3
+Book ID: 101333
+	row: 5
+	book case: 4
+Book ID: 101334
+	row: 6
+	book case: 3
+Book ID: 101335
+	row: 8
+	book case: 2
+Book ID: 101336
+	row: 7
+	book case: 3
+Book ID: 101337
+	row: 5
+	book case: 4
+Book ID: 101338
+	row: 8
+	book case: 2
+Book ID: 101339
+	row: 6
+	book case: 3
+Book ID: 101340
+	row: 7
+	book case: 3
+Book ID: 101341
+	row: 5
+	book case: 4
+Book ID: 101342
+	row: 8
+	book case: 2
+Book ID: 101343
+	row: 7
+	book case: 4
+Book ID: 101344
+	row: 5
+	book case: 4
+Book ID: 101345
+	row: 6
+	book case: 3
+Book ID: 101346
+	row: 8
+	book case: 2
+Book ID: 101347
+	row: 7
+	book case: 4
+Book ID: 101348
+	row: 5
+	book case: 4
+Book ID: 101349
+	row: 6
+	book case: 4
+Book ID: 101350
+	row: 8
+	book case: 2
+Book ID: 101351
+	row: 7
+	book case: 4
+Book ID: 101352
+	row: 5
+	book case: 4
+Book ID: 101353
+	row: 6
+	book case: 4
+Book ID: 101354
+	row: 7
+	book case: 4
+Book ID: 101355
+	row: 8
+	book case: 2
+Book ID: 101356
+	row: 5
+	book case: 4
+Book ID: 101357
+	row: 7
+	book case: 4
+Book ID: 101358
+	row: 6
+	book case: 4
+Book ID: 101359
+	row: 5
+	book case: 4
+Book ID: 101360
+	row: 8
+	book case: 2
+Book ID: 101361
+	row: 7
+	book case: 4
+Book ID: 101362
+	row: 5
+	book case: 4
+Book ID: 101363
+	row: 6
+	book case: 4
+Book ID: 101364
+	row: 8
+	book case: 2
+Book ID: 101365
+	row: 7
+	book case: 4
+Book ID: 101366
+	row: 5
+	book case: 4
+Book ID: 101367
+	row: 7
+	book case: 4
+Book ID: 101368
+	row: 8
+	book case: 2
+Book ID: 101369
+	row: 5
+	book case: 4
+Book ID: 101370
+	row: 6
+	book case: 4
+Book ID: 101371
+	row: 5
+	book case: 4
+Book ID: 101372
+	row: 7
+	book case: 4
+Book ID: 101373
+	row: 8
+	book case: 2
+Book ID: 101374
+	row: 6
+	book case: 4
+Book ID: 101375
+	row: 5
+	book case: 4
+Book ID: 101376
+	row: 7
+	book case: 4
+Book ID: 101377
+	row: 6
+	book case: 4
+Book ID: 101378
+	row: 8
+	book case: 2
+Book ID: 101379
+	row: 7
+	book case: 4
+Book ID: 101380
+	row: 5
+	book case: 4
+Book ID: 101381
+	row: 6
+	book case: 4
+Book ID: 101382
+	row: 7
+	book case: 4
+Book ID: 101383
+	row: 6
+	book case: 4
+Book ID: 101384
+	row: 7
+	book case: 4
+Book ID: 101385
+	row: 7
+	book case: 4
+Book ID: 101386
+	row: 6
+	book case: 4
+Book ID: 101387
+	row: 8
+	book case: 2
+Book ID: 101388
+	row: 5
+	book case: 4
+Book ID: 101389
+	row: 7
+	book case: 4
+Book ID: 101390
+	row: 6
+	book case: 4
+Book ID: 101391
+	row: 8
+	book case: 2
+Book ID: 101392
+	row: 5
+	book case: 4
+Book ID: 101393
+	row: 7
+	book case: 4
+Book ID: 101394
+	row: 5
+	book case: 4
+Book ID: 101395
+	row: 8
+	book case: 2
+Book ID: 101396
+	row: 7
+	book case: 4
+Book ID: 101397
+	row: 6
+	book case: 4
+Book ID: 101398
+	row: 8
+	book case: 2
+Book ID: 101399
+	row: 5
+	book case: 4
+Book ID: 101400
+	row: 6
+	book case: 4
+Book ID: 101401
+	row: 7
+	book case: 4
+Book ID: 101402
+	row: 8
+	book case: 2
+Book ID: 101403
+	row: 5
+	book case: 4
+Book ID: 101404
+	row: 6
+	book case: 4
+Book ID: 101405
+	row: 7
+	book case: 4
+Book ID: 101406
+	row: 5
+	book case: 4
+Book ID: 101407
+	row: 8
+	book case: 2
+Book ID: 101408
+	row: 6
+	book case: 4
+Book ID: 101409
+	row: 8
+	book case: 2
+Book ID: 101410
+	row: 7
+	book case: 4
+Book ID: 101411
+	row: 5
+	book case: 5
+Book ID: 101412
+	row: 6
+	book case: 4
+Book ID: 101413
+	row: 8
+	book case: 2
+Book ID: 101414
+	row: 7
+	book case: 4
+Book ID: 101415
+	row: 5
+	book case: 5
+Book ID: 101416
+	row: 6
+	book case: 4
+Book ID: 101417
+	row: 8
+	book case: 2
+Book ID: 101418
+	row: 7
+	book case: 4
+Book ID: 101419
+	row: 6
+	book case: 4
+Book ID: 101420
+	row: 5
+	book case: 5
+Book ID: 101421
+	row: 8
+	book case: 2
+Book ID: 101422
+	row: 7
+	book case: 4
+Book ID: 101423
+	row: 6
+	book case: 4
+Book ID: 101424
+	row: 5
+	book case: 5
+Book ID: 101425
+	row: 7
+	book case: 5
+Book ID: 101426
+	row: 8
+	book case: 2
+Book ID: 101427
+	row: 6
+	book case: 4
+Book ID: 101428
+	row: 5
+	book case: 5
+Book ID: 101429
+	row: 8
+	book case: 2
+Book ID: 101430
+	row: 5
+	book case: 5
+Book ID: 101431
+	row: 6
+	book case: 4
+Book ID: 101432
+	row: 7
+	book case: 5
+Book ID: 101433
+	row: 8
+	book case: 3
+Book ID: 101434
+	row: 5
+	book case: 5
+Book ID: 101435
+	row: 7
+	book case: 5
+Book ID: 101436
+	row: 6
+	book case: 4
+Book ID: 101437
+	row: 8
+	book case: 3
+Book ID: 101438
+	row: 5
+	book case: 5
+Book ID: 101439
+	row: 7
+	book case: 5
+Book ID: 101440
+	row: 6
+	book case: 4
+Book ID: 101441
+	row: 5
+	book case: 5
+Book ID: 101442
+	row: 8
+	book case: 3
+Book ID: 101443
+	row: 7
+	book case: 5
+Book ID: 101444
+	row: 6
+	book case: 5
+Book ID: 101445
+	row: 5
+	book case: 5
+Book ID: 101446
+	row: 7
+	book case: 5
+Book ID: 101447
+	row: 8
+	book case: 3
+Book ID: 101448
+	row: 6
+	book case: 5
+Book ID: 101449
+	row: 5
+	book case: 5
+Book ID: 101450
+	row: 7
+	book case: 5
+Book ID: 101451
+	row: 8
+	book case: 3
+Book ID: 101452
+	row: 6
+	book case: 5
+Book ID: 101453
+	row: 5
+	book case: 5
+Book ID: 101454
+	row: 7
+	book case: 5
+Book ID: 101455
+	row: 8
+	book case: 3
+Book ID: 101456
+	row: 5
+	book case: 5
+Book ID: 101457
+	row: 6
+	book case: 5
+Book ID: 101458
+	row: 7
+	book case: 5
+Book ID: 101459
+	row: 8
+	book case: 3
+Book ID: 101460
+	row: 5
+	book case: 5
+Book ID: 101461
+	row: 8
+	book case: 3
+Book ID: 101462
+	row: 7
+	book case: 5
+Book ID: 101463
+	row: 6
+	book case: 5
+Book ID: 101464
+	row: 5
+	book case: 5
+Book ID: 101465
+	row: 8
+	book case: 3
+Book ID: 101466
+	row: 7
+	book case: 5
+Book ID: 101467
+	row: 6
+	book case: 5
+Book ID: 101468
+	row: 5
+	book case: 5
+Book ID: 101469
+	row: 8
+	book case: 3
+Book ID: 101470
+	row: 7
+	book case: 5
+Book ID: 101471
+	row: 6
+	book case: 5
+Book ID: 101472
+	row: 5
+	book case: 5
+Book ID: 101473
+	row: 8
+	book case: 3
+Book ID: 101474
+	row: 7
+	book case: 5
+Book ID: 101475
+	row: 5
+	book case: 5
+Book ID: 101476
+	row: 8
+	book case: 3
+Book ID: 101477
+	row: 7
+	book case: 5
+Book ID: 101478
+	row: 6
+	book case: 5
+Book ID: 101479
+	row: 5
+	book case: 5
+Book ID: 101480
+	row: 7
+	book case: 5
+Book ID: 101481
+	row: 8
+	book case: 3
+Book ID: 101482
+	row: 5
+	book case: 5
+Book ID: 101483
+	row: 8
+	book case: 3
+Book ID: 101484
+	row: 7
+	book case: 5
+Book ID: 101485
+	row: 5
+	book case: 5
+Book ID: 101486
+	row: 6
+	book case: 5
+Book ID: 101487
+	row: 8
+	book case: 3
+Book ID: 101488
+	row: 7
+	book case: 5
+Book ID: 101489
+	row: 5
+	book case: 5
+Book ID: 101490
+	row: 6
+	book case: 5
+Book ID: 101491
+	row: 8
+	book case: 3
+Book ID: 101492
+	row: 7
+	book case: 5
+Book ID: 101493
+	row: 5
+	book case: 5
+Book ID: 101494
+	row: 6
+	book case: 5
+Book ID: 101495
+	row: 8
+	book case: 3
+Book ID: 101496
+	row: 5
+	book case: 6
+Book ID: 101497
+	row: 7
+	book case: 5
+Book ID: 101498
+	row: 6
+	book case: 5
+Book ID: 101499
+	row: 8
+	book case: 3
+Book ID: 101500
+	row: 5
+	book case: 6
+Book ID: 101501
+	row: 7
+	book case: 5
+Book ID: 101502
+	row: 6
+	book case: 5
+Book ID: 101503
+	row: 8
+	book case: 3
+Book ID: 101504
+	row: 7
+	book case: 5
+Book ID: 101505
+	row: 5
+	book case: 6
+Book ID: 101506
+	row: 6
+	book case: 5
+Book ID: 101507
+	row: 7
+	book case: 5
+Book ID: 101508
+	row: 8
+	book case: 3
+Book ID: 101509
+	row: 5
+	book case: 6
+Book ID: 101510
+	row: 6
+	book case: 5
+Book ID: 101511
+	row: 8
+	book case: 3
+Book ID: 101512
+	row: 7
+	book case: 5
+Book ID: 101513
+	row: 5
+	book case: 6
+Book ID: 101514
+	row: 7
+	book case: 6
+Book ID: 101515
+	row: 8
+	book case: 3
+Book ID: 101516
+	row: 6
+	book case: 5
+Book ID: 101517
+	row: 5
+	book case: 6
+Book ID: 101518
+	row: 8
+	book case: 3
+Book ID: 101519
+	row: 5
+	book case: 6
+Book ID: 101520
+	row: 7
+	book case: 6
+Book ID: 101521
+	row: 6
+	book case: 5
+Book ID: 101522
+	row: 8
+	book case: 4
+Book ID: 101523
+	row: 5
+	book case: 6
+Book ID: 101524
+	row: 7
+	book case: 6
+Book ID: 101525
+	row: 8
+	book case: 4
+Book ID: 101526
+	row: 6
+	book case: 5
+Book ID: 101527
+	row: 5
+	book case: 6
+Book ID: 101528
+	row: 7
+	book case: 6
+Book ID: 101529
+	row: 6
+	book case: 5
+Book ID: 101530
+	row: 8
+	book case: 4
+Book ID: 101531
+	row: 5
+	book case: 6
+Book ID: 101532
+	row: 7
+	book case: 6
+Book ID: 101533
+	row: 6
+	book case: 5
+Book ID: 101534
+	row: 8
+	book case: 4
+Book ID: 101535
+	row: 7
+	book case: 6
+Book ID: 101536
+	row: 6
+	book case: 5
+Book ID: 101537
+	row: 5
+	book case: 6
+Book ID: 101538
+	row: 8
+	book case: 4
+Book ID: 101539
+	row: 7
+	book case: 6
+Book ID: 101540
+	row: 6
+	book case: 5
+Book ID: 101541
+	row: 5
+	book case: 6
+Book ID: 101542
+	row: 8
+	book case: 4
+Book ID: 101543
+	row: 7
+	book case: 6
+Book ID: 101544
+	row: 6
+	book case: 5
+Book ID: 101545
+	row: 5
+	book case: 6
+Book ID: 101546
+	row: 8
+	book case: 4
+Book ID: 101547
+	row: 5
+	book case: 6
+Book ID: 101548
+	row: 8
+	book case: 4
+Book ID: 101549
+	row: 7
+	book case: 6
+Book ID: 101550
+	row: 6
+	book case: 6
+Book ID: 101551
+	row: 8
+	book case: 4
+Book ID: 101552
+	row: 5
+	book case: 6
+Book ID: 101553
+	row: 7
+	book case: 6
+Book ID: 101554
+	row: 5
+	book case: 6
+Book ID: 101555
+	row: 8
+	book case: 4
+Book ID: 101556
+	row: 6
+	book case: 6
+Book ID: 101557
+	row: 7
+	book case: 6
+Book ID: 101558
+	row: 5
+	book case: 6
+Book ID: 101559
+	row: 8
+	book case: 4
+Book ID: 101560
+	row: 6
+	book case: 6
+Book ID: 101561
+	row: 5
+	book case: 6
+Book ID: 101562
+	row: 8
+	book case: 4
+Book ID: 101563
+	row: 7
+	book case: 6
+Book ID: 101564
+	row: 5
+	book case: 6
+Book ID: 101565
+	row: 8
+	book case: 4
+Book ID: 101566
+	row: 6
+	book case: 6
+Book ID: 101567
+	row: 7
+	book case: 6
+Book ID: 101568
+	row: 5
+	book case: 6
+Book ID: 101569
+	row: 8
+	book case: 4
+Book ID: 101570
+	row: 6
+	book case: 6
+Book ID: 101571
+	row: 7
+	book case: 6
+Book ID: 101572
+	row: 5
+	book case: 6
+Book ID: 101573
+	row: 6
+	book case: 6
+Book ID: 101574
+	row: 8
+	book case: 4
+Book ID: 101575
+	row: 7
+	book case: 6
+Book ID: 101576
+	row: 5
+	book case: 6
+Book ID: 101577
+	row: 8
+	book case: 4
+Book ID: 101578
+	row: 6
+	book case: 6
+Book ID: 101579
+	row: 7
+	book case: 6
+Book ID: 101580
+	row: 5
+	book case: 6
+Book ID: 101581
+	row: 8
+	book case: 4
+Book ID: 101582
+	row: 6
+	book case: 6
+Book ID: 101583
+	row: 7
+	book case: 6
+Book ID: 101584
+	row: 5
+	book case: 7
+Book ID: 101585
+	row: 8
+	book case: 4
+Book ID: 101586
+	row: 7
+	book case: 6
+Book ID: 101587
+	row: 5
+	book case: 7
+Book ID: 101588
+	row: 8
+	book case: 4
+Book ID: 101589
+	row: 6
+	book case: 6
+Book ID: 101590
+	row: 7
+	book case: 6
+Book ID: 101591
+	row: 5
+	book case: 7
+Book ID: 101592
+	row: 8
+	book case: 4
+Book ID: 101593
+	row: 7
+	book case: 6
+Book ID: 101594
+	row: 5
+	book case: 7
+Book ID: 101595
+	row: 8
+	book case: 4
+Book ID: 101596
+	row: 6
+	book case: 6
+Book ID: 101597
+	row: 5
+	book case: 7
+Book ID: 101598
+	row: 7
+	book case: 6
+Book ID: 101599
+	row: 8
+	book case: 4
+Book ID: 101600
+	row: 5
+	book case: 7
+Book ID: 101601
+	row: 8
+	book case: 4
+Book ID: 101602
+	row: 7
+	book case: 6
+Book ID: 101603
+	row: 6
+	book case: 6
+Book ID: 101604
+	row: 5
+	book case: 7
+Book ID: 101605
+	row: 8
+	book case: 5
+Book ID: 101606
+	row: 7
+	book case: 6
+Book ID: 101607
+	row: 5
+	book case: 7
+Book ID: 101608
+	row: 6
+	book case: 6
+Book ID: 101609
+	row: 8
+	book case: 5
+Book ID: 101610
+	row: 7
+	book case: 7
+Book ID: 101611
+	row: 5
+	book case: 7
+Book ID: 101612
+	row: 6
+	book case: 6
+Book ID: 101613
+	row: 8
+	book case: 5
+Book ID: 101614
+	row: 5
+	book case: 7
+Book ID: 101615
+	row: 7
+	book case: 7
+Book ID: 101616
+	row: 8
+	book case: 5
+Book ID: 101617
+	row: 5
+	book case: 7
+Book ID: 101618
+	row: 6
+	book case: 6
+Book ID: 101619
+	row: 7
+	book case: 7
+Book ID: 101620
+	row: 8
+	book case: 5
+Book ID: 101621
+	row: 5
+	book case: 7
+Book ID: 101622
+	row: 7
+	book case: 7
+Book ID: 101623
+	row: 8
+	book case: 5
+Book ID: 101624
+	row: 5
+	book case: 7
+Book ID: 101625
+	row: 7
+	book case: 7
+Book ID: 101626
+	row: 6
+	book case: 6
+Book ID: 101627
+	row: 8
+	book case: 5
+Book ID: 101628
+	row: 5
+	book case: 7
+Book ID: 101629
+	row: 8
+	book case: 5
+Book ID: 101630
+	row: 7
+	book case: 7
+Book ID: 101631
+	row: 6
+	book case: 6
+Book ID: 101632
+	row: 5
+	book case: 7
+Book ID: 101633
+	row: 8
+	book case: 5
+Book ID: 101634
+	row: 7
+	book case: 7
+Book ID: 101635
+	row: 6
+	book case: 6
+Book ID: 101636
+	row: 8
+	book case: 5
+Book ID: 101637
+	row: 5
+	book case: 7
+Book ID: 101638
+	row: 7
+	book case: 7
+Book ID: 101639
+	row: 6
+	book case: 6
+Book ID: 101640
+	row: 5
+	book case: 7
+Book ID: 101641
+	row: 8
+	book case: 5
+Book ID: 101642
+	row: 7
+	book case: 7
+Book ID: 101643
+	row: 6
+	book case: 6
+Book ID: 101644
+	row: 5
+	book case: 7
+Book ID: 101645
+	row: 7
+	book case: 7
+Book ID: 101646
+	row: 8
+	book case: 5
+Book ID: 101647
+	row: 6
+	book case: 6
+Book ID: 101648
+	row: 5
+	book case: 7
+Book ID: 101649
+	row: 7
+	book case: 7
+Book ID: 101650
+	row: 6
+	book case: 6
+Book ID: 101651
+	row: 8
+	book case: 5
+Book ID: 101652
+	row: 5
+	book case: 7
+Book ID: 101653
+	row: 7
+	book case: 7
+Book ID: 101654
+	row: 5
+	book case: 7
+Book ID: 101655
+	row: 8
+	book case: 5
+Book ID: 101656
+	row: 6
+	book case: 6
+Book ID: 101657
+	row: 7
+	book case: 7
+Book ID: 101658
+	row: 5
+	book case: 7
+Book ID: 101659
+	row: 6
+	book case: 6
+Book ID: 101660
+	row: 8
+	book case: 5
+Book ID: 101661
+	row: 5
+	book case: 7
+Book ID: 101662
+	row: 7
+	book case: 7
+Book ID: 101663
+	row: 8
+	book case: 5
+Book ID: 101664
+	row: 6
+	book case: 7
+Book ID: 101665
+	row: 7
+	book case: 7
+Book ID: 101666
+	row: 5
+	book case: 8
+Book ID: 101667
+	row: 8
+	book case: 5
+Book ID: 101668
+	row: 6
+	book case: 7
+Book ID: 101669
+	row: 5
+	book case: 8
+Book ID: 101670
+	row: 8
+	book case: 5
+Book ID: 101671
+	row: 7
+	book case: 7
+Book ID: 101672
+	row: 5
+	book case: 8
+Book ID: 101673
+	row: 8
+	book case: 5
+Book ID: 101674
+	row: 6
+	book case: 7
+Book ID: 101675
+	row: 7
+	book case: 7
+Book ID: 101676
+	row: 5
+	book case: 8
+Book ID: 101677
+	row: 8
+	book case: 5
+Book ID: 101678
+	row: 6
+	book case: 7
+Book ID: 101679
+	row: 7
+	book case: 7
+Book ID: 101680
+	row: 5
+	book case: 8
+Book ID: 101681
+	row: 8
+	book case: 5
+Book ID: 101682
+	row: 6
+	book case: 7
+Book ID: 101683
+	row: 8
+	book case: 5
+Book ID: 101684
+	row: 5
+	book case: 8
+Book ID: 101685
+	row: 7
+	book case: 7
+Book ID: 101686
+	row: 6
+	book case: 7
+Book ID: 101687
+	row: 8
+	book case: 5
+Book ID: 101688
+	row: 5
+	book case: 8
+Book ID: 101689
+	row: 7
+	book case: 7
+Book ID: 101690
+	row: 6
+	book case: 7
+Book ID: 101691
+	row: 8
+	book case: 6
+Book ID: 101692
+	row: 5
+	book case: 8
+Book ID: 101693
+	row: 7
+	book case: 7
+Book ID: 101694
+	row: 6
+	book case: 7
+Book ID: 101695
+	row: 8
+	book case: 6
+Book ID: 101696
+	row: 5
+	book case: 8
+Book ID: 101697
+	row: 7
+	book case: 7
+Book ID: 101698
+	row: 6
+	book case: 7
+Book ID: 101699
+	row: 7
+	book case: 7
+Book ID: 101700
+	row: 8
+	book case: 6
+Book ID: 101701
+	row: 5
+	book case: 8
+Book ID: 101702
+	row: 6
+	book case: 7
+Book ID: 101703
+	row: 8
+	book case: 6
+Book ID: 101704
+	row: 5
+	book case: 8
+Book ID: 101705
+	row: 7
+	book case: 8
+Book ID: 101706
+	row: 8
+	book case: 6
+Book ID: 101707
+	row: 5
+	book case: 8
+Book ID: 101708
+	row: 7
+	book case: 8
+Book ID: 101709
+	row: 6
+	book case: 7
+Book ID: 101710
+	row: 8
+	book case: 6
+Book ID: 101711
+	row: 5
+	book case: 8
+Book ID: 101712
+	row: 7
+	book case: 8
+Book ID: 101713
+	row: 5
+	book case: 8
+Book ID: 101714
+	row: 8
+	book case: 6
+Book ID: 101715
+	row: 6
+	book case: 7
+Book ID: 101716
+	row: 7
+	book case: 8
+Book ID: 101717
+	row: 5
+	book case: 8
+Book ID: 101718
+	row: 8
+	book case: 6
+Book ID: 101719
+	row: 6
+	book case: 7
+Book ID: 101720
+	row: 7
+	book case: 8
+Book ID: 101721
+	row: 5
+	book case: 8
+Book ID: 101722
+	row: 5
+	book case: 8
+Book ID: 101723
+	row: 5
+	book case: 8
+Book ID: 101724
+	row: 5
+	book case: 8
+Book ID: 101725
+	row: 5
+	book case: 8
+Book ID: 101726
+	row: 5
+	book case: 8
+Book ID: 101727
+	row: 6
+	book case: 7
+Book ID: 101728
+	row: 7
+	book case: 8
+Book ID: 101729
+	row: 5
+	book case: 8
+Book ID: 101730
+	row: 6
+	book case: 7
+Book ID: 101731
+	row: 7
+	book case: 8
+Book ID: 101732
+	row: 8
+	book case: 6
+Book ID: 101733
+	row: 5
+	book case: 8
+Book ID: 101734
+	row: 6
+	book case: 7
+Book ID: 101735
+	row: 7
+	book case: 8
+Book ID: 101736
+	row: 5
+	book case: 9
+Book ID: 101737
+	row: 7
+	book case: 8
+Book ID: 101738
+	row: 6
+	book case: 7
+Book ID: 101739
+	row: 8
+	book case: 6
+Book ID: 101740
+	row: 7
+	book case: 8
+Book ID: 101741
+	row: 6
+	book case: 7
+Book ID: 101742
+	row: 5
+	book case: 9
+Book ID: 101743
+	row: 7
+	book case: 8
+Book ID: 101744
+	row: 6
+	book case: 7
+Book ID: 101745
+	row: 5
+	book case: 9
+Book ID: 101746
+	row: 7
+	book case: 8
+Book ID: 101747
+	row: 6
+	book case: 7
+Book ID: 101748
+	row: 8
+	book case: 6
+Book ID: 101749
+	row: 6
+	book case: 7
+Book ID: 101750
+	row: 7
+	book case: 8
+Book ID: 101751
+	row: 5
+	book case: 9
+Book ID: 101752
+	row: 6
+	book case: 7
+Book ID: 101753
+	row: 8
+	book case: 6
+Book ID: 101754
+	row: 7
+	book case: 8
+Book ID: 101755
+	row: 5
+	book case: 9
+Book ID: 101756
+	row: 6
+	book case: 7
+Book ID: 101757
+	row: 7
+	book case: 8
+Book ID: 101758
+	row: 8
+	book case: 6
+Book ID: 101759
+	row: 7
+	book case: 8
+Book ID: 101760
+	row: 5
+	book case: 9
+Book ID: 101761
+	row: 8
+	book case: 6
+Book ID: 101762
+	row: 6
+	book case: 8
+Book ID: 101763
+	row: 7
+	book case: 8
+Book ID: 101764
+	row: 6
+	book case: 8
+Book ID: 101765
+	row: 5
+	book case: 9
+Book ID: 101766
+	row: 7
+	book case: 8
+Book ID: 101767
+	row: 6
+	book case: 8
+Book ID: 101768
+	row: 8
+	book case: 6
+Book ID: 101769
+	row: 5
+	book case: 9
+Book ID: 101770
+	row: 7
+	book case: 8
+Book ID: 101771
+	row: 6
+	book case: 8
+Book ID: 101772
+	row: 5
+	book case: 9
+Book ID: 101773
+	row: 6
+	book case: 8
+Book ID: 101774
+	row: 7
+	book case: 8
+Book ID: 101775
+	row: 8
+	book case: 6
+Book ID: 101776
+	row: 6
+	book case: 8
+Book ID: 101777
+	row: 7
+	book case: 8
+Book ID: 101778
+	row: 5
+	book case: 9
+Book ID: 101779
+	row: 8
+	book case: 6
+Book ID: 101780
+	row: 6
+	book case: 8
+Book ID: 101781
+	row: 7
+	book case: 8
+Book ID: 101782
+	row: 6
+	book case: 8
+Book ID: 101783
+	row: 7
+	book case: 8
+Book ID: 101784
+	row: 8
+	book case: 6
+Book ID: 101785
+	row: 6
+	book case: 8
+Book ID: 101786
+	row: 7
+	book case: 9
+Book ID: 101787
+	row: 8
+	book case: 6
+Book ID: 101788
+	row: 5
+	book case: 9
+Book ID: 101789
+	row: 6
+	book case: 8
+Book ID: 101790
+	row: 7
+	book case: 9
+Book ID: 101791
+	row: 6
+	book case: 8
+Book ID: 101792
+	row: 7
+	book case: 9
+Book ID: 101793
+	row: 5
+	book case: 9
+Book ID: 101794
+	row: 6
+	book case: 8
+Book ID: 101795
+	row: 8
+	book case: 6
+Book ID: 101796
+	row: 7
+	book case: 9
+Book ID: 101797
+	row: 5
+	book case: 9
+Book ID: 101798
+	row: 6
+	book case: 8
+Book ID: 101799
+	row: 7
+	book case: 9
+Book ID: 101800
+	row: 5
+	book case: 9
+Book ID: 101801
+	row: 7
+	book case: 9
+Book ID: 101802
+	row: 6
+	book case: 8
+Book ID: 101803
+	row: 8
+	book case: 6
+Book ID: 101804
+	row: 7
+	book case: 9
+Book ID: 101805
+	row: 6
+	book case: 8
+Book ID: 101806
+	row: 5
+	book case: 9
+Book ID: 101807
+	row: 8
+	book case: 6
+Book ID: 101808
+	row: 7
+	book case: 9
+Book ID: 101809
+	row: 6
+	book case: 8
+Book ID: 101810
+	row: 5
+	book case: 9
+Book ID: 101811
+	row: 8
+	book case: 6
+Book ID: 101812
+	row: 6
+	book case: 8
+Book ID: 101813
+	row: 7
+	book case: 9
+Book ID: 101814
+	row: 6
+	book case: 8
+Book ID: 101815
+	row: 7
+	book case: 9
+Book ID: 101816
+	row: 5
+	book case: 9
+Book ID: 101817
+	row: 8
+	book case: 7
+Book ID: 101818
+	row: 6
+	book case: 8
+Book ID: 101819
+	row: 7
+	book case: 9
+Book ID: 101820
+	row: 8
+	book case: 7
+Book ID: 101821
+	row: 6
+	book case: 8
+Book ID: 101822
+	row: 5
+	book case: 9
+Book ID: 101823
+	row: 7
+	book case: 9
+Book ID: 101824
+	row: 8
+	book case: 7
+Book ID: 101825
+	row: 6
+	book case: 8
+Book ID: 101826
+	row: 7
+	book case: 9
+Book ID: 101827
+	row: 5
+	book case: 9
+Book ID: 101828
+	row: 6
+	book case: 8
+Book ID: 101829
+	row: 8
+	book case: 7
+Book ID: 101830
+	row: 7
+	book case: 9
+Book ID: 101831
+	row: 5
+	book case: 9
+Book ID: 101832
+	row: 8
+	book case: 7
+Book ID: 101833
+	row: 6
+	book case: 8
+Book ID: 101834
+	row: 7
+	book case: 9
+Book ID: 101835
+	row: 8
+	book case: 7
+Book ID: 101836
+	row: 6
+	book case: 9
+Book ID: 101837
+	row: 5
+	book case: 9
+Book ID: 101838
+	row: 7
+	book case: 9
+Book ID: 101839
+	row: 6
+	book case: 9
+Book ID: 101840
+	row: 8
+	book case: 7
+Book ID: 101841
+	row: 7
+	book case: 9
+Book ID: 101842
+	row: 5
+	book case: 9
+Book ID: 101843
+	row: 6
+	book case: 9
+Book ID: 101844
+	row: 7
+	book case: 9
+Book ID: 101845
+	row: 8
+	book case: 7
+Book ID: 101846
+	row: 6
+	book case: 9
+Book ID: 101847
+	row: 5
+	book case: 9
+Book ID: 101848
+	row: 7
+	book case: 9
+Book ID: 101849
+	row: 6
+	book case: 9
+Book ID: 101850
+	row: 8
+	book case: 7
+Book ID: 101851
+	row: 7
+	book case: 9
+Book ID: 101852
+	row: 6
+	book case: 9
+Book ID: 101853
+	row: 5
+	book case: 10
+Book ID: 101854
+	row: 8
+	book case: 7
+Book ID: 101855
+	row: 6
+	book case: 9
+Book ID: 101856
+	row: 7
+	book case: 9
+Book ID: 101857
+	row: 5
+	book case: 10
+Book ID: 101858
+	row: 6
+	book case: 9
+Book ID: 101859
+	row: 7
+	book case: 9
+Book ID: 101860
+	row: 8
+	book case: 7
+Book ID: 101861
+	row: 6
+	book case: 9
+Book ID: 101862
+	row: 7
+	book case: 9
+Book ID: 101863
+	row: 8
+	book case: 7
+Book ID: 101864
+	row: 5
+	book case: 10
+Book ID: 101865
+	row: 6
+	book case: 9
+Book ID: 101866
+	row: 7
+	book case: 10
+Book ID: 101867
+	row: 5
+	book case: 10
+Book ID: 101868
+	row: 6
+	book case: 9
+Book ID: 101869
+	row: 7
+	book case: 10
+Book ID: 101870
+	row: 8
+	book case: 7
+Book ID: 101871
+	row: 6
+	book case: 9
+Book ID: 101872
+	row: 5
+	book case: 10
+Book ID: 101873
+	row: 7
+	book case: 10
+Book ID: 101874
+	row: 6
+	book case: 9
+Book ID: 101875
+	row: 5
+	book case: 10
+Book ID: 101876
+	row: 8
+	book case: 7
+Book ID: 101877
+	row: 7
+	book case: 10
+Book ID: 101878
+	row: 6
+	book case: 9
+Book ID: 101879
+	row: 5
+	book case: 10
+Book ID: 101880
+	row: 8
+	book case: 7
+Book ID: 101881
+	row: 7
+	book case: 10
+Book ID: 101882
+	row: 6
+	book case: 9
+Book ID: 101883
+	row: 8
+	book case: 7
+Book ID: 101884
+	row: 7
+	book case: 10
+Book ID: 101885
+	row: 6
+	book case: 9
+Book ID: 101886
+	row: 5
+	book case: 10
+Book ID: 101887
+	row: 8
+	book case: 7
+Book ID: 101888
+	row: 6
+	book case: 9
+Book ID: 101889
+	row: 7
+	book case: 10
+Book ID: 101890
+	row: 8
+	book case: 7
+Book ID: 101891
+	row: 6
+	book case: 9
+Book ID: 101892
+	row: 5
+	book case: 10
+Book ID: 101893
+	row: 7
+	book case: 10
+Book ID: 101894
+	row: 8
+	book case: 7
+Book ID: 101895
+	row: 5
+	book case: 10
+Book ID: 101896
+	row: 7
+	book case: 10
+Book ID: 101897
+	row: 6
+	book case: 9
+Book ID: 101898
+	row: 6
+	book case: 9
+Book ID: 101899
+	row: 7
+	book case: 10
+Book ID: 101900
+	row: 5
+	book case: 10
+Book ID: 101901
+	row: 8
+	book case: 7
+Book ID: 101902
+	row: 6
+	book case: 9
+Book ID: 101903
+	row: 7
+	book case: 10
+Book ID: 101904
+	row: 5
+	book case: 10
+Book ID: 101905
+	row: 6
+	book case: 9
+Book ID: 101906
+	row: 7
+	book case: 10
+Book ID: 101907
+	row: 8
+	book case: 7
+Book ID: 101908
+	row: 6
+	book case: 9
+Book ID: 101909
+	row: 5
+	book case: 10
+Book ID: 101910
+	row: 7
+	book case: 10
+Book ID: 101911
+	row: 6
+	book case: 10
+Book ID: 101912
+	row: 5
+	book case: 10
+Book ID: 101913
+	row: 7
+	book case: 10
+Book ID: 101914
+	row: 8
+	book case: 7
+Book ID: 101915
+	row: 6
+	book case: 10
+Book ID: 101916
+	row: 7
+	book case: 10
+Book ID: 101917
+	row: 5
+	book case: 10
+Book ID: 101918
+	row: 6
+	book case: 10
+Book ID: 101919
+	row: 7
+	book case: 10
+Book ID: 101920
+	row: 8
+	book case: 7
+Book ID: 101921
+	row: 6
+	book case: 10
+Book ID: 101922
+	row: 7
+	book case: 10
+Book ID: 101923
+	row: 8
+	book case: 8
+Book ID: 101924
+	row: 5
+	book case: 10
+Book ID: 101925
+	row: 6
+	book case: 10
+Book ID: 101926
+	row: 7
+	book case: 10
+Book ID: 101927
+	row: 8
+	book case: 8
+Book ID: 101928
+	row: 5
+	book case: 10
+Book ID: 101929
+	row: 6
+	book case: 10
+Book ID: 101930
+	row: 7
+	book case: 10
+Book ID: 101931
+	row: 8
+	book case: 8
+Book ID: 101932
+	row: 6
+	book case: 10
+Book ID: 101933
+	row: 7
+	book case: 10
+Book ID: 101934
+	row: 8
+	book case: 8
+Book ID: 101935
+	row: 5
+	book case: 10
+Book ID: 101936
+	row: 6
+	book case: 10
+Book ID: 101937
+	row: 7
+	book case: 10
+Book ID: 101938
+	row: 8
+	book case: 8
+Book ID: 101939
+	row: 5
+	book case: 10
+Book ID: 101940
+	row: 6
+	book case: 10
+Book ID: 101941
+	row: 7
+	book case: 10
+Book ID: 101942
+	row: 8
+	book case: 8
+Book ID: 101943
+	row: 7
+	book case: 10
+Book ID: 101944
+	row: 6
+	book case: 10
+Book ID: 101945
+	row: 5
+	book case: 10
+Book ID: 101946
+	row: 8
+	book case: 8
+Book ID: 101947
+	row: 6
+	book case: 10
+Book ID: 101948
+	row: 7
+	book case: 11
+Book ID: 101949
+	row: 5
+	book case: 10
+Book ID: 101950
+	row: 8
+	book case: 8
+Book ID: 101951
+	row: 6
+	book case: 10
+Book ID: 101952
+	row: 7
+	book case: 11
+Book ID: 101953
+	row: 6
+	book case: 10
+Book ID: 101954
+	row: 5
+	book case: 10
+Book ID: 101955
+	row: 8
+	book case: 8
+Book ID: 101956
+	row: 7
+	book case: 11
+Book ID: 101957
+	row: 6
+	book case: 10
+Book ID: 101958
+	row: 8
+	book case: 8
+Book ID: 101959
+	row: 7
+	book case: 11
+Book ID: 101960
+	row: 5
+	book case: 10
+Book ID: 101961
+	row: 6
+	book case: 10
+Book ID: 101962
+	row: 8
+	book case: 8
+Book ID: 101963
+	row: 7
+	book case: 11
+Book ID: 101964
+	row: 6
+	book case: 10
+Book ID: 101965
+	row: 5
+	book case: 11
+Book ID: 101966
+	row: 8
+	book case: 8
+Book ID: 101967
+	row: 7
+	book case: 11
+Book ID: 101968
+	row: 6
+	book case: 10
+Book ID: 101969
+	row: 8
+	book case: 8
+Book ID: 101970
+	row: 7
+	book case: 11
+Book ID: 101971
+	row: 5
+	book case: 11
+Book ID: 101972
+	row: 6
+	book case: 10
+Book ID: 101973
+	row: 8
+	book case: 8
+Book ID: 101974
+	row: 7
+	book case: 11
+Book ID: 101975
+	row: 6
+	book case: 10
+Book ID: 101976
+	row: 5
+	book case: 11
+Book ID: 101977
+	row: 6
+	book case: 10
+Book ID: 101978
+	row: 7
+	book case: 11
+Book ID: 101979
+	row: 5
+	book case: 11
+Book ID: 101980
+	row: 7
+	book case: 11
+Book ID: 101981
+	row: 6
+	book case: 10
+Book ID: 101982
+	row: 8
+	book case: 8
+Book ID: 101983
+	row: 5
+	book case: 11
+Book ID: 101984
+	row: 6
+	book case: 10
+Book ID: 101985
+	row: 7
+	book case: 11
+Book ID: 101986
+	row: 8
+	book case: 8
+Book ID: 101987
+	row: 5
+	book case: 11
+Book ID: 101988
+	row: 6
+	book case: 10
+Book ID: 101989
+	row: 7
+	book case: 11
+Book ID: 101990
+	row: 8
+	book case: 8
+Book ID: 101991
+	row: 6
+	book case: 11
+Book ID: 101992
+	row: 7
+	book case: 11
+Book ID: 101993
+	row: 5
+	book case: 11
+Book ID: 101994
+	row: 6
+	book case: 11
+Book ID: 101995
+	row: 8
+	book case: 8
+Book ID: 101996
+	row: 7
+	book case: 11
+Book ID: 101997
+	row: 6
+	book case: 11
+Book ID: 101998
+	row: 8
+	book case: 8
+Book ID: 101999
+	row: 5
+	book case: 11
+Book ID: 102000
+	row: 7
+	book case: 11
+Book ID: 102001
+	row: 6
+	book case: 11
+Book ID: 102002
+	row: 8
+	book case: 8
+Book ID: 102003
+	row: 7
+	book case: 11
+Book ID: 102004
+	row: 5
+	book case: 11
+Book ID: 102005
+	row: 6
+	book case: 11
+Book ID: 102006
+	row: 7
+	book case: 11
+Book ID: 102007
+	row: 5
+	book case: 11
+Book ID: 102008
+	row: 6
+	book case: 11
+Book ID: 102009
+	row: 8
+	book case: 8
+Book ID: 102010
+	row: 7
+	book case: 11
+Book ID: 102011
+	row: 6
+	book case: 11
+Book ID: 102012
+	row: 5
+	book case: 11
+Book ID: 102013
+	row: 7
+	book case: 11
+Book ID: 102014
+	row: 6
+	book case: 11
+Book ID: 102015
+	row: 8
+	book case: 8
+Book ID: 102016
+	row: 7
+	book case: 11
+Book ID: 102017
+	row: 5
+	book case: 11
+Book ID: 102018
+	row: 8
+	book case: 8
+Book ID: 102019
+	row: 7
+	book case: 11
+Book ID: 102020
+	row: 6
+	book case: 11
+Book ID: 102021
+	row: 5
+	book case: 11
+Book ID: 102022
+	row: 8
+	book case: 9
+Book ID: 102023
+	row: 6
+	book case: 11
+Book ID: 102024
+	row: 7
+	book case: 11
+Book ID: 102025
+	row: 5
+	book case: 11
+Book ID: 102026
+	row: 7
+	book case: 11
+Book ID: 102027
+	row: 6
+	book case: 11
+Book ID: 102028
+	row: 8
+	book case: 9
+Book ID: 102029
+	row: 5
+	book case: 11
+Book ID: 102030
+	row: 7
+	book case: 12
+Book ID: 102031
+	row: 6
+	book case: 11
+Book ID: 102032
+	row: 8
+	book case: 9
+Book ID: 102033
+	row: 5
+	book case: 11
+Book ID: 102034
+	row: 7
+	book case: 12
+Book ID: 102035
+	row: 6
+	book case: 11
+Book ID: 102036
+	row: 8
+	book case: 9
+Book ID: 102037
+	row: 7
+	book case: 12
+Book ID: 102038
+	row: 6
+	book case: 11
+Book ID: 102039
+	row: 8
+	book case: 9
+Book ID: 102040
+	row: 7
+	book case: 12
+Book ID: 102041
+	row: 5
+	book case: 11
+Book ID: 102042
+	row: 6
+	book case: 11
+Book ID: 102043
+	row: 8
+	book case: 9
+Book ID: 102044
+	row: 7
+	book case: 12
+Book ID: 102045
+	row: 6
+	book case: 11
+Book ID: 102046
+	row: 5
+	book case: 11
+Book ID: 102047
+	row: 8
+	book case: 9
+Book ID: 102048
+	row: 5
+	book case: 11
+Book ID: 102049
+	row: 6
+	book case: 11
+Book ID: 102050
+	row: 7
+	book case: 12
+Book ID: 102051
+	row: 5
+	book case: 11
+Book ID: 102052
+	row: 6
+	book case: 11
+Book ID: 102053
+	row: 5
+	book case: 11
+Book ID: 102054
+	row: 6
+	book case: 11
+Book ID: 102055
+	row: 5
+	book case: 11
+Book ID: 102056
+	row: 8
+	book case: 9
+Book ID: 102057
+	row: 6
+	book case: 11
+Book ID: 102058
+	row: 7
+	book case: 12
+Book ID: 102059
+	row: 8
+	book case: 9
+Book ID: 102060
+	row: 5
+	book case: 11
+Book ID: 102061
+	row: 7
+	book case: 12
+Book ID: 102062
+	row: 8
+	book case: 9
+Book ID: 102063
+	row: 6
+	book case: 11
+Book ID: 102064
+	row: 5
+	book case: 12
+Book ID: 102065
+	row: 8
+	book case: 9
+Book ID: 102066
+	row: 6
+	book case: 11
+Book ID: 102067
+	row: 5
+	book case: 12
+Book ID: 102068
+	row: 8
+	book case: 9
+Book ID: 102069
+	row: 7
+	book case: 12
+Book ID: 102070
+	row: 5
+	book case: 12
+Book ID: 102071
+	row: 8
+	book case: 9
+Book ID: 102072
+	row: 7
+	book case: 12
+Book ID: 102073
+	row: 8
+	book case: 9
+Book ID: 102074
+	row: 5
+	book case: 12
+Book ID: 102075
+	row: 7
+	book case: 12
+Book ID: 102076
+	row: 8
+	book case: 9
+Book ID: 102077
+	row: 7
+	book case: 12
+Book ID: 102078
+	row: 5
+	book case: 12
+Book ID: 102079
+	row: 8
+	book case: 9
+Book ID: 102080
+	row: 7
+	book case: 12
+Book ID: 102081
+	row: 8
+	book case: 9
+Book ID: 102082
+	row: 5
+	book case: 12
+Book ID: 102083
+	row: 7
+	book case: 12
+Book ID: 102084
+	row: 7
+	book case: 12
+Book ID: 102085
+	row: 6
+	book case: 11
+Book ID: 102086
+	row: 6
+	book case: 12
+Book ID: 102087
+	row: 7
+	book case: 12
+Book ID: 102088
+	row: 5
+	book case: 12
+Book ID: 102089
+	row: 6
+	book case: 12
+Book ID: 102090
+	row: 7
+	book case: 12
+Book ID: 102091
+	row: 8
+	book case: 9
+Book ID: 102092
+	row: 6
+	book case: 12
+Book ID: 102093
+	row: 7
+	book case: 12
+Book ID: 102094
+	row: 6
+	book case: 12
+Book ID: 102095
+	row: 7
+	book case: 12
+Book ID: 102096
+	row: 8
+	book case: 9
+Book ID: 102097
+	row: 6
+	book case: 12
+Book ID: 102098
+	row: 7
+	book case: 12
+Book ID: 102099
+	row: 8
+	book case: 9
+Book ID: 102100
+	row: 6
+	book case: 12
+Book ID: 102101
+	row: 7
+	book case: 12
+Book ID: 102102
+	row: 5
+	book case: 12
+Book ID: 102103
+	row: 8
+	book case: 9
+Book ID: 102104
+	row: 6
+	book case: 12
+Book ID: 102105
+	row: 7
+	book case: 12
+Book ID: 102106
+	row: 5
+	book case: 12
+Book ID: 102107
+	row: 6
+	book case: 12
+Book ID: 102108
+	row: 7
+	book case: 12
+Book ID: 102109
+	row: 8
+	book case: 9
+Book ID: 102110
+	row: 5
+	book case: 12
+Book ID: 102111
+	row: 6
+	book case: 12
+Book ID: 102112
+	row: 9
+	book case: 1
+Book ID: 102113
+	row: 9
+	book case: 1
+Book ID: 102114
+	row: 8
+	book case: 9
+Book ID: 102115
+	row: 5
+	book case: 12
+Book ID: 102116
+	row: 6
+	book case: 12
+Book ID: 102117
+	row: 9
+	book case: 1
+Book ID: 102118
+	row: 8
+	book case: 10
+Book ID: 102119
+	row: 6
+	book case: 12
+Book ID: 102120
+	row: 8
+	book case: 10
+Book ID: 102121
+	row: 6
+	book case: 12
+Book ID: 102122
+	row: 8
+	book case: 10
+Book ID: 102123
+	row: 6
+	book case: 12
+Book ID: 102124
+	row: 8
+	book case: 10
+Book ID: 102125
+	row: 6
+	book case: 12
+Book ID: 102126
+	row: 8
+	book case: 10
+Book ID: 102127
+	row: 6
+	book case: 12
+Book ID: 102128
+	row: 6
+	book case: 12
+Book ID: 102129
+	row: 6
+	book case: 12
+Book ID: 102130
+	row: 6
+	book case: 12
+Book ID: 102131
+	row: 8
+	book case: 10
+Book ID: 102132
+	row: 9
+	book case: 1
+Book ID: 102133
+	row: 6
+	book case: 12
+Book ID: 102134
+	row: 8
+	book case: 10
+Book ID: 102135
+	row: 9
+	book case: 1
+Book ID: 102136
+	row: 8
+	book case: 10
+Book ID: 102137
+	row: 5
+	book case: 12
+Book ID: 102138
+	row: 9
+	book case: 1
+Book ID: 102139
+	row: 6
+	book case: 12
+Book ID: 102140
+	row: 9
+	book case: 1
+Book ID: 102141
+	row: 6
+	book case: 12
+Book ID: 102142
+	row: 5
+	book case: 12
+Book ID: 102143
+	row: 9
+	book case: 1
+Book ID: 102144
+	row: 6
+	book case: 12
+Book ID: 102145
+	row: 8
+	book case: 10
+Book ID: 102146
+	row: 5
+	book case: 12
+Book ID: 102147
+	row: 5
+	book case: 12
+Book ID: 102148
+	row: 8
+	book case: 10
+Book ID: 102149
+	row: 6
+	book case: 12
+Book ID: 102150
+	row: 9
+	book case: 1
+Book ID: 102151
+	row: 8
+	book case: 10
+Book ID: 102152
+	row: 5
+	book case: 12
+Book ID: 102153
+	row: 10
+	book case: 1
+Book ID: 102154
+	row: 8
+	book case: 10
+Book ID: 102155
+	row: 10
+	book case: 1
+Book ID: 102156
+	row: 9
+	book case: 1
+Book ID: 102157
+	row: 8
+	book case: 10
+Book ID: 102158
+	row: 10
+	book case: 1
+Book ID: 102159
+	row: 5
+	book case: 12
+Book ID: 102160
+	row: 9
+	book case: 1
+Book ID: 102161
+	row: 10
+	book case: 1
+Book ID: 102162
+	row: 8
+	book case: 10
+Book ID: 102163
+	row: 5
+	book case: 12
+Book ID: 102164
+	row: 5
+	book case: 12
+Book ID: 102165
+	row: 8
+	book case: 10
+Book ID: 102166
+	row: 9
+	book case: 1
+Book ID: 102167
+	row: 10
+	book case: 1
+Book ID: 102168
+	row: 9
+	book case: 1
+Book ID: 102169
+	row: 10
+	book case: 1
+Book ID: 102170
+	row: 9
+	book case: 1
+Book ID: 102171
+	row: 10
+	book case: 1
+Book ID: 102172
+	row: 10
+	book case: 1
+Book ID: 102173
+	row: 9
+	book case: 1
+Book ID: 102174
+	row: 5
+	book case: 12
+Book ID: 102175
+	row: 10
+	book case: 1
+Book ID: 102176
+	row: 9
+	book case: 1
+Book ID: 102177
+	row: 8
+	book case: 10
+Book ID: 102178
+	row: 10
+	book case: 1
+Book ID: 102179
+	row: 9
+	book case: 1
+Book ID: 102180
+	row: 5
+	book case: 12
+Book ID: 102181
+	row: 10
+	book case: 1
+Book ID: 102182
+	row: 9
+	book case: 1
+Book ID: 102183
+	row: 8
+	book case: 10
+Book ID: 102184
+	row: 10
+	book case: 1
+Book ID: 102185
+	row: 9
+	book case: 1
+Book ID: 102186
+	row: 5
+	book case: 12
+Book ID: 102187
+	row: 10
+	book case: 1
+Book ID: 102188
+	row: 9
+	book case: 1
+Book ID: 102189
+	row: 8
+	book case: 10
+Book ID: 102190
+	row: 10
+	book case: 1
+Book ID: 102191
+	row: 5
+	book case: 12
+Book ID: 102192
+	row: 9
+	book case: 1
+Book ID: 102193
+	row: 8
+	book case: 10
+Book ID: 102194
+	row: 10
+	book case: 1
+Book ID: 102195
+	row: 8
+	book case: 10
+Book ID: 102196
+	row: 8
+	book case: 10
+Book ID: 102197
+	row: 8
+	book case: 10
+Book ID: 102198
+	row: 8
+	book case: 10
+Book ID: 102199
+	row: 8
+	book case: 11
+Book ID: 102200
+	row: 10
+	book case: 1
+Book ID: 102201
+	row: 8
+	book case: 11
+Book ID: 102202
+	row: 10
+	book case: 1
+Book ID: 102203
+	row: 8
+	book case: 11
+Book ID: 102204
+	row: 10
+	book case: 1
+Book ID: 102205
+	row: 8
+	book case: 11
+Book ID: 102206
+	row: 10
+	book case: 1
+Book ID: 102207
+	row: 8
+	book case: 11
+Book ID: 102208
+	row: 10
+	book case: 1
+Book ID: 102209
+	row: 8
+	book case: 11
+Book ID: 102210
+	row: 9
+	book case: 1
+Book ID: 102211
+	row: 10
+	book case: 1
+Book ID: 102212
+	row: 8
+	book case: 11
+Book ID: 102213
+	row: 8
+	book case: 11
+Book ID: 102214
+	row: 10
+	book case: 1
+Book ID: 102215
+	row: 9
+	book case: 1
+Book ID: 102216
+	row: 8
+	book case: 11
+Book ID: 102217
+	row: 10
+	book case: 1
+Book ID: 102218
+	row: 9
+	book case: 2
+Book ID: 102219
+	row: 8
+	book case: 11
+Book ID: 102220
+	row: 10
+	book case: 2
+Book ID: 102221
+	row: 9
+	book case: 2
+Book ID: 102222
+	row: 8
+	book case: 11
+Book ID: 102223
+	row: 10
+	book case: 2
+Book ID: 102224
+	row: 8
+	book case: 11
+Book ID: 102225
+	row: 9
+	book case: 2
+Book ID: 102226
+	row: 10
+	book case: 2
+Book ID: 102227
+	row: 8
+	book case: 11
+Book ID: 102228
+	row: 10
+	book case: 2
+Book ID: 102229
+	row: 9
+	book case: 2
+Book ID: 102230
+	row: 8
+	book case: 11
+Book ID: 102231
+	row: 10
+	book case: 2
+Book ID: 102232
+	row: 8
+	book case: 11
+Book ID: 102233
+	row: 9
+	book case: 2
+Book ID: 102234
+	row: 10
+	book case: 2
+Book ID: 102235
+	row: 8
+	book case: 11
+Book ID: 102236
+	row: 9
+	book case: 2
+Book ID: 102237
+	row: 10
+	book case: 2
+Book ID: 102238
+	row: 8
+	book case: 11
+Book ID: 102239
+	row: 10
+	book case: 2
+Book ID: 102240
+	row: 8
+	book case: 11
+Book ID: 102241
+	row: 9
+	book case: 2
+Book ID: 102242
+	row: 8
+	book case: 11
+Book ID: 102243
+	row: 10
+	book case: 2
+Book ID: 102244
+	row: 9
+	book case: 2
+Book ID: 102245
+	row: 8
+	book case: 11
+Book ID: 102246
+	row: 10
+	book case: 2
+Book ID: 102247
+	row: 8
+	book case: 11
+Book ID: 102248
+	row: 10
+	book case: 2
+Book ID: 102249
+	row: 9
+	book case: 2
+Book ID: 102250
+	row: 8
+	book case: 11
+Book ID: 102251
+	row: 10
+	book case: 2
+Book ID: 102252
+	row: 8
+	book case: 11
+Book ID: 102253
+	row: 10
+	book case: 2
+Book ID: 102254
+	row: 9
+	book case: 2
+Book ID: 102255
+	row: 8
+	book case: 12
+Book ID: 102256
+	row: 10
+	book case: 2
+Book ID: 102257
+	row: 8
+	book case: 12
+Book ID: 102258
+	row: 9
+	book case: 2
+Book ID: 102259
+	row: 10
+	book case: 2
+Book ID: 102260
+	row: 8
+	book case: 12
+Book ID: 102261
+	row: 9
+	book case: 2
+Book ID: 102262
+	row: 10
+	book case: 2
+Book ID: 102263
+	row: 8
+	book case: 12
+Book ID: 102264
+	row: 9
+	book case: 2
+Book ID: 102265
+	row: 10
+	book case: 2
+Book ID: 102266
+	row: 8
+	book case: 12
+Book ID: 102267
+	row: 10
+	book case: 2
+Book ID: 102268
+	row: 8
+	book case: 12
+Book ID: 102269
+	row: 9
+	book case: 2
+Book ID: 102270
+	row: 10
+	book case: 2
+Book ID: 102271
+	row: 8
+	book case: 12
+Book ID: 102272
+	row: 9
+	book case: 2
+Book ID: 102273
+	row: 10
+	book case: 2
+Book ID: 102274
+	row: 8
+	book case: 12
+Book ID: 102275
+	row: 9
+	book case: 2
+Book ID: 102276
+	row: 10
+	book case: 2
+Book ID: 102277
+	row: 8
+	book case: 12
+Book ID: 102278
+	row: 10
+	book case: 2
+Book ID: 102279
+	row: 9
+	book case: 2
+Book ID: 102280
+	row: 8
+	book case: 12
+Book ID: 102281
+	row: 10
+	book case: 2
+Book ID: 102282
+	row: 9
+	book case: 2
+Book ID: 102283
+	row: 8
+	book case: 12
+Book ID: 102284
+	row: 10
+	book case: 3
+Book ID: 102285
+	row: 9
+	book case: 2
+Book ID: 102286
+	row: 8
+	book case: 12
+Book ID: 102287
+	row: 10
+	book case: 3
+Book ID: 102288
+	row: 8
+	book case: 12
+Book ID: 102289
+	row: 9
+	book case: 2
+Book ID: 102290
+	row: 10
+	book case: 3
+Book ID: 102291
+	row: 8
+	book case: 12
+Book ID: 102292
+	row: 9
+	book case: 2
+Book ID: 102293
+	row: 10
+	book case: 3
+Book ID: 102294
+	row: 8
+	book case: 12
+Book ID: 102295
+	row: 9
+	book case: 2
+Book ID: 102296
+	row: 10
+	book case: 3
+Book ID: 102297
+	row: 9
+	book case: 2
+Book ID: 102298
+	row: 10
+	book case: 3
+Book ID: 102299
+	row: 8
+	book case: 12
+Book ID: 102300
+	row: 9
+	book case: 3
+Book ID: 102301
+	row: 10
+	book case: 3
+Book ID: 102302
+	row: 8
+	book case: 12
+Book ID: 102303
+	row: 10
+	book case: 3
+Book ID: 102304
+	row: 9
+	book case: 3
+Book ID: 102305
+	row: 10
+	book case: 3
+Book ID: 102306
+	row: 9
+	book case: 3
+Book ID: 102307
+	row: 8
+	book case: 12
+Book ID: 102308
+	row: 10
+	book case: 3
+Book ID: 102309
+	row: 9
+	book case: 3
+Book ID: 102310
+	row: 8
+	book case: 12
+Book ID: 102311
+	row: 9
+	book case: 3
+Book ID: 102312
+	row: 10
+	book case: 3
+Book ID: 102313
+	row: 8
+	book case: 12
+Book ID: 102314
+	row: 9
+	book case: 3
+Book ID: 102315
+	row: 10
+	book case: 3
+Book ID: 102316
+	row: 9
+	book case: 3
+Book ID: 102317
+	row: 10
+	book case: 3
+Book ID: 102318
+	row: 8
+	book case: 12
+Book ID: 102319
+	row: 9
+	book case: 3
+Book ID: 102320
+	row: 10
+	book case: 3
+Book ID: 102321
+	row: 9
+	book case: 3
+Book ID: 102322
+	row: 10
+	book case: 3
+Book ID: 102323
+	row: 8
+	book case: 12
+Book ID: 102324
+	row: 9
+	book case: 3
+Book ID: 102325
+	row: 10
+	book case: 3
+Book ID: 102326
+	row: 8
+	book case: 12
+Book ID: 102327
+	row: 9
+	book case: 3
+Book ID: 102328
+	row: 10
+	book case: 3
+Book ID: 102329
+	row: 9
+	book case: 3
+Book ID: 102330
+	row: 10
+	book case: 3
+Book ID: 102331
+	row: 9
+	book case: 3
+Book ID: 102332
+	row: 10
+	book case: 3
+Book ID: 102333
+	row: 9
+	book case: 3
+Book ID: 102334
+	row: 10
+	book case: 3
+Book ID: 102335
+	row: 9
+	book case: 3
+Book ID: 102336
+	row: 10
+	book case: 3
+Book ID: 102337
+	row: 9
+	book case: 3
+Book ID: 102338
+	row: 10
+	book case: 3
+Book ID: 102339
+	row: 9
+	book case: 3
+Book ID: 102340
+	row: 10
+	book case: 3
+Book ID: 102341
+	row: 9
+	book case: 3
+Book ID: 102342
+	row: 10
+	book case: 4
+Book ID: 102343
+	row: 9
+	book case: 3
+Book ID: 102344
+	row: 10
+	book case: 4
+Book ID: 102345
+	row: 10
+	book case: 4
+Book ID: 102346
+	row: 9
+	book case: 3
+Book ID: 102347
+	row: 10
+	book case: 4
+Book ID: 102348
+	row: 9
+	book case: 3
+Book ID: 102349
+	row: 10
+	book case: 4
+Book ID: 102350
+	row: 9
+	book case: 3
+Book ID: 102351
+	row: 10
+	book case: 4
+Book ID: 102352
+	row: 9
+	book case: 3
+Book ID: 102353
+	row: 10
+	book case: 4
+Book ID: 102354
+	row: 9
+	book case: 4
+Book ID: 102355
+	row: 10
+	book case: 4
+Book ID: 102356
+	row: 9
+	book case: 4
+Book ID: 102357
+	row: 10
+	book case: 4
+Book ID: 102358
+	row: 9
+	book case: 4
+Book ID: 102359
+	row: 10
+	book case: 4
+Book ID: 102360
+	row: 9
+	book case: 4
+Book ID: 102361
+	row: 10
+	book case: 4
+Book ID: 102362
+	row: 9
+	book case: 4
+Book ID: 102363
+	row: 10
+	book case: 4
+Book ID: 102364
+	row: 9
+	book case: 4
+Book ID: 102365
+	row: 10
+	book case: 4
+Book ID: 102366
+	row: 9
+	book case: 4
+Book ID: 102367
+	row: 10
+	book case: 4
+Book ID: 102368
+	row: 9
+	book case: 4
+Book ID: 102369
+	row: 10
+	book case: 4
+Book ID: 102370
+	row: 9
+	book case: 4
+Book ID: 102371
+	row: 10
+	book case: 4
+Book ID: 102372
+	row: 9
+	book case: 4
+Book ID: 102373
+	row: 10
+	book case: 4
+Book ID: 102374
+	row: 9
+	book case: 4
+Book ID: 102375
+	row: 10
+	book case: 4
+Book ID: 102376
+	row: 9
+	book case: 4
+Book ID: 102377
+	row: 10
+	book case: 4
+Book ID: 102378
+	row: 9
+	book case: 4
+Book ID: 102379
+	row: 10
+	book case: 4
+Book ID: 102380
+	row: 9
+	book case: 4
+Book ID: 102381
+	row: 10
+	book case: 4
+Book ID: 102382
+	row: 9
+	book case: 4
+Book ID: 102383
+	row: 10
+	book case: 4
+Book ID: 102384
+	row: 9
+	book case: 4
+Book ID: 102385
+	row: 10
+	book case: 4
+Book ID: 102386
+	row: 9
+	book case: 4
+Book ID: 102387
+	row: 10
+	book case: 5
+Book ID: 102388
+	row: 9
+	book case: 4
+Book ID: 102389
+	row: 10
+	book case: 5
+Book ID: 102390
+	row: 9
+	book case: 4
+Book ID: 102391
+	row: 10
+	book case: 5
+Book ID: 102392
+	row: 9
+	book case: 4
+Book ID: 102393
+	row: 10
+	book case: 5
+Book ID: 102394
+	row: 9
+	book case: 4
+Book ID: 102395
+	row: 10
+	book case: 5
+Book ID: 102396
+	row: 9
+	book case: 4
+Book ID: 102397
+	row: 10
+	book case: 5
+Book ID: 102398
+	row: 9
+	book case: 4
+Book ID: 102399
+	row: 10
+	book case: 5
+Book ID: 102400
+	row: 9
+	book case: 5
+Book ID: 102401
+	row: 10
+	book case: 5
+Book ID: 102402
+	row: 9
+	book case: 5
+Book ID: 102403
+	row: 10
+	book case: 5
+Book ID: 102404
+	row: 9
+	book case: 5
+Book ID: 102405
+	row: 10
+	book case: 5
+Book ID: 102406
+	row: 9
+	book case: 5
+Book ID: 102407
+	row: 10
+	book case: 5
+Book ID: 102408
+	row: 9
+	book case: 5
+Book ID: 102409
+	row: 10
+	book case: 5
+Book ID: 102410
+	row: 9
+	book case: 5
+Book ID: 102411
+	row: 10
+	book case: 5
+Book ID: 102412
+	row: 9
+	book case: 5
+Book ID: 102413
+	row: 10
+	book case: 5
+Book ID: 102414
+	row: 9
+	book case: 5
+Book ID: 102415
+	row: 10
+	book case: 5
+Book ID: 102416
+	row: 9
+	book case: 5
+Book ID: 102417
+	row: 10
+	book case: 5
+Book ID: 102418
+	row: 9
+	book case: 5
+Book ID: 102419
+	row: 10
+	book case: 5
+Book ID: 102420
+	row: 9
+	book case: 5
+Book ID: 102421
+	row: 10
+	book case: 5
+Book ID: 102422
+	row: 9
+	book case: 5
+Book ID: 102423
+	row: 10
+	book case: 5
+Book ID: 102424
+	row: 9
+	book case: 5
+Book ID: 102425
+	row: 10
+	book case: 5
+Book ID: 102426
+	row: 9
+	book case: 5
+Book ID: 102427
+	row: 10
+	book case: 5
+Book ID: 102428
+	row: 9
+	book case: 5
+Book ID: 102429
+	row: 10
+	book case: 5
+Book ID: 102430
+	row: 9
+	book case: 5
+Book ID: 102431
+	row: 10
+	book case: 5
+Book ID: 102432
+	row: 9
+	book case: 5
+Book ID: 102433
+	row: 10
+	book case: 6
+Book ID: 102434
+	row: 9
+	book case: 5
+Book ID: 102435
+	row: 10
+	book case: 6
+Book ID: 102436
+	row: 9
+	book case: 5
+Book ID: 102437
+	row: 10
+	book case: 6
+Book ID: 102438
+	row: 9
+	book case: 5
+Book ID: 102439
+	row: 10
+	book case: 6
+Book ID: 102440
+	row: 9
+	book case: 5
+Book ID: 102441
+	row: 10
+	book case: 6
+Book ID: 102442
+	row: 9
+	book case: 5
+Book ID: 102443
+	row: 10
+	book case: 6
+Book ID: 102444
+	row: 9
+	book case: 5
+Book ID: 102445
+	row: 10
+	book case: 6
+Book ID: 102446
+	row: 9
+	book case: 6
+Book ID: 102447
+	row: 10
+	book case: 6
+Book ID: 102448
+	row: 9
+	book case: 6
+Book ID: 102449
+	row: 10
+	book case: 6
+Book ID: 102450
+	row: 9
+	book case: 6
+Book ID: 102451
+	row: 10
+	book case: 6
+Book ID: 102452
+	row: 9
+	book case: 6
+Book ID: 102453
+	row: 10
+	book case: 6
+Book ID: 102454
+	row: 9
+	book case: 6
+Book ID: 102455
+	row: 10
+	book case: 6
+Book ID: 102456
+	row: 9
+	book case: 6
+Book ID: 102457
+	row: 10
+	book case: 6
+Book ID: 102458
+	row: 9
+	book case: 6
+Book ID: 102459
+	row: 10
+	book case: 6
+Book ID: 102460
+	row: 9
+	book case: 6
+Book ID: 102461
+	row: 10
+	book case: 6
+Book ID: 102462
+	row: 9
+	book case: 6
+Book ID: 102463
+	row: 10
+	book case: 6
+Book ID: 102464
+	row: 9
+	book case: 6
+Book ID: 102465
+	row: 10
+	book case: 6
+Book ID: 102466
+	row: 9
+	book case: 6
+Book ID: 102467
+	row: 10
+	book case: 6
+Book ID: 102468
+	row: 9
+	book case: 6
+Book ID: 102469
+	row: 10
+	book case: 6
+Book ID: 102470
+	row: 9
+	book case: 6
+Book ID: 102471
+	row: 10
+	book case: 6
+Book ID: 102472
+	row: 9
+	book case: 6
+Book ID: 102473
+	row: 10
+	book case: 6
+Book ID: 102474
+	row: 9
+	book case: 6
+Book ID: 102475
+	row: 10
+	book case: 6
+Book ID: 102476
+	row: 9
+	book case: 6
+Book ID: 102477
+	row: 10
+	book case: 6
+Book ID: 102478
+	row: 9
+	book case: 6
+Book ID: 102479
+	row: 10
+	book case: 7
+Book ID: 102480
+	row: 9
+	book case: 6
+Book ID: 102481
+	row: 10
+	book case: 7
+Book ID: 102482
+	row: 9
+	book case: 6
+Book ID: 102483
+	row: 10
+	book case: 7
+Book ID: 102484
+	row: 9
+	book case: 6
+Book ID: 102485
+	row: 10
+	book case: 7
+Book ID: 102486
+	row: 9
+	book case: 6
+Book ID: 102487
+	row: 10
+	book case: 7
+Book ID: 102488
+	row: 9
+	book case: 6
+Book ID: 102489
+	row: 10
+	book case: 7
+Book ID: 102490
+	row: 9
+	book case: 6
+Book ID: 102491
+	row: 10
+	book case: 7
+Book ID: 102492
+	row: 9
+	book case: 7
+Book ID: 102493
+	row: 10
+	book case: 7
+Book ID: 102494
+	row: 9
+	book case: 7
+Book ID: 102495
+	row: 10
+	book case: 7
+Book ID: 102496
+	row: 9
+	book case: 7
+Book ID: 102497
+	row: 10
+	book case: 7
+Book ID: 102498
+	row: 9
+	book case: 7
+Book ID: 102499
+	row: 10
+	book case: 7
+Book ID: 102500
+	row: 9
+	book case: 7
+Book ID: 102501
+	row: 10
+	book case: 7
+Book ID: 102502
+	row: 9
+	book case: 7
+Book ID: 102503
+	row: 10
+	book case: 7
+Book ID: 102504
+	row: 9
+	book case: 7
+Book ID: 102505
+	row: 10
+	book case: 7
+Book ID: 102506
+	row: 9
+	book case: 7
+Book ID: 102507
+	row: 10
+	book case: 7
+Book ID: 102508
+	row: 9
+	book case: 7
+Book ID: 102509
+	row: 10
+	book case: 7
+Book ID: 102510
+	row: 9
+	book case: 7
+Book ID: 102511
+	row: 10
+	book case: 7
+Book ID: 102512
+	row: 9
+	book case: 7
+Book ID: 102513
+	row: 10
+	book case: 7
+Book ID: 102514
+	row: 9
+	book case: 7
+Book ID: 102515
+	row: 10
+	book case: 7
+Book ID: 102516
+	row: 9
+	book case: 7
+Book ID: 102517
+	row: 10
+	book case: 7
+Book ID: 102518
+	row: 9
+	book case: 7
+Book ID: 102519
+	row: 10
+	book case: 7
+Book ID: 102520
+	row: 9
+	book case: 7
+Book ID: 102521
+	row: 10
+	book case: 7
+Book ID: 102522
+	row: 9
+	book case: 7
+Book ID: 102523
+	row: 10
+	book case: 7
+Book ID: 102524
+	row: 9
+	book case: 7
+Book ID: 102525
+	row: 10
+	book case: 8
+Book ID: 102526
+	row: 9
+	book case: 7
+Book ID: 102527
+	row: 10
+	book case: 8
+Book ID: 102528
+	row: 9
+	book case: 7
+Book ID: 102529
+	row: 10
+	book case: 8
+Book ID: 102530
+	row: 9
+	book case: 7
+Book ID: 102531
+	row: 10
+	book case: 8
+Book ID: 102532
+	row: 9
+	book case: 7
+Book ID: 102533
+	row: 10
+	book case: 8
+Book ID: 102534
+	row: 9
+	book case: 7
+Book ID: 102535
+	row: 10
+	book case: 8
+Book ID: 102536
+	row: 9
+	book case: 7
+Book ID: 102537
+	row: 10
+	book case: 8
+Book ID: 102538
+	row: 9
+	book case: 8
+Book ID: 102539
+	row: 10
+	book case: 8
+Book ID: 102540
+	row: 9
+	book case: 8
+Book ID: 102541
+	row: 10
+	book case: 8
+Book ID: 102542
+	row: 9
+	book case: 8
+Book ID: 102543
+	row: 10
+	book case: 8
+Book ID: 102544
+	row: 9
+	book case: 8
+Book ID: 102545
+	row: 10
+	book case: 8
+Book ID: 102546
+	row: 9
+	book case: 8
+Book ID: 102547
+	row: 10
+	book case: 8
+Book ID: 102548
+	row: 9
+	book case: 8
+Book ID: 102549
+	row: 10
+	book case: 8
+Book ID: 102550
+	row: 9
+	book case: 8
+Book ID: 102551
+	row: 10
+	book case: 8
+Book ID: 102552
+	row: 9
+	book case: 8
+Book ID: 102553
+	row: 10
+	book case: 8
+Book ID: 102554
+	row: 9
+	book case: 8
+Book ID: 102555
+	row: 10
+	book case: 8
+Book ID: 102556
+	row: 9
+	book case: 8
+Book ID: 102557
+	row: 10
+	book case: 8
+Book ID: 102558
+	row: 9
+	book case: 8
+Book ID: 102559
+	row: 10
+	book case: 8
+Book ID: 102560
+	row: 9
+	book case: 8
+Book ID: 102561
+	row: 10
+	book case: 8
+Book ID: 102562
+	row: 9
+	book case: 8
+Book ID: 102563
+	row: 10
+	book case: 8
+Book ID: 102564
+	row: 9
+	book case: 8
+Book ID: 102565
+	row: 10
+	book case: 8
+Book ID: 102566
+	row: 9
+	book case: 8
+Book ID: 102567
+	row: 10
+	book case: 8
+Book ID: 102568
+	row: 9
+	book case: 8
+Book ID: 102569
+	row: 10
+	book case: 8
+Book ID: 102570
+	row: 9
+	book case: 8
+Book ID: 102571
+	row: 10
+	book case: 9
+Book ID: 102572
+	row: 9
+	book case: 8
+Book ID: 102573
+	row: 10
+	book case: 9
+Book ID: 102574
+	row: 9
+	book case: 8
+Book ID: 102575
+	row: 10
+	book case: 9
+Book ID: 102576
+	row: 9
+	book case: 8
+Book ID: 102577
+	row: 10
+	book case: 9
+Book ID: 102578
+	row: 9
+	book case: 8
+Book ID: 102579
+	row: 10
+	book case: 9
+Book ID: 102580
+	row: 9
+	book case: 8
+Book ID: 102581
+	row: 10
+	book case: 9
+Book ID: 102582
+	row: 9
+	book case: 8
+Book ID: 102583
+	row: 10
+	book case: 9
+Book ID: 102584
+	row: 9
+	book case: 9
+Book ID: 102585
+	row: 10
+	book case: 9
+Book ID: 102586
+	row: 9
+	book case: 9
+Book ID: 102587
+	row: 10
+	book case: 9
+Book ID: 102588
+	row: 9
+	book case: 9
+Book ID: 102589
+	row: 10
+	book case: 9
+Book ID: 102590
+	row: 9
+	book case: 9
+Book ID: 102591
+	row: 10
+	book case: 9
+Book ID: 102592
+	row: 9
+	book case: 9
+Book ID: 102593
+	row: 10
+	book case: 9
+Book ID: 102594
+	row: 9
+	book case: 9
+Book ID: 102595
+	row: 10
+	book case: 9
+Book ID: 102596
+	row: 9
+	book case: 9
+Book ID: 102597
+	row: 10
+	book case: 9
+Book ID: 102598
+	row: 9
+	book case: 9
+Book ID: 102599
+	row: 10
+	book case: 9
+Book ID: 102600
+	row: 9
+	book case: 9
+Book ID: 102601
+	row: 10
+	book case: 9
+Book ID: 102602
+	row: 9
+	book case: 9
+Book ID: 102603
+	row: 10
+	book case: 9
+Book ID: 102604
+	row: 9
+	book case: 9
+Book ID: 102605
+	row: 10
+	book case: 9
+Book ID: 102606
+	row: 9
+	book case: 9
+Book ID: 102607
+	row: 10
+	book case: 9
+Book ID: 102608
+	row: 9
+	book case: 9
+Book ID: 102609
+	row: 10
+	book case: 9
+Book ID: 102610
+	row: 9
+	book case: 9
+Book ID: 102611
+	row: 10
+	book case: 9
+Book ID: 102612
+	row: 9
+	book case: 9
+Book ID: 102613
+	row: 10
+	book case: 9
+Book ID: 102614
+	row: 9
+	book case: 9
+Book ID: 102615
+	row: 10
+	book case: 9
+Book ID: 102616
+	row: 9
+	book case: 9
+Book ID: 102617
+	row: 10
+	book case: 10
+Book ID: 102618
+	row: 9
+	book case: 9
+Book ID: 102619
+	row: 10
+	book case: 10
+Book ID: 102620
+	row: 9
+	book case: 9
+Book ID: 102621
+	row: 10
+	book case: 10
+Book ID: 102622
+	row: 9
+	book case: 9
+Book ID: 102623
+	row: 10
+	book case: 10
+Book ID: 102624
+	row: 9
+	book case: 9
+Book ID: 102625
+	row: 10
+	book case: 10
+Book ID: 102626
+	row: 9
+	book case: 9
+Book ID: 102627
+	row: 10
+	book case: 10
+Book ID: 102628
+	row: 9
+	book case: 9
+Book ID: 102629
+	row: 10
+	book case: 10
+Book ID: 102630
+	row: 9
+	book case: 10
+Book ID: 102631
+	row: 10
+	book case: 10
+Book ID: 102632
+	row: 9
+	book case: 10
+Book ID: 102633
+	row: 10
+	book case: 10
+Book ID: 102634
+	row: 9
+	book case: 10
+Book ID: 102635
+	row: 10
+	book case: 10
+Book ID: 102636
+	row: 9
+	book case: 10
+Book ID: 102637
+	row: 10
+	book case: 10
+Book ID: 102638
+	row: 9
+	book case: 10
+Book ID: 102639
+	row: 10
+	book case: 10
+Book ID: 102640
+	row: 9
+	book case: 10
+Book ID: 102641
+	row: 10
+	book case: 10
+Book ID: 102642
+	row: 9
+	book case: 10
+Book ID: 102643
+	row: 10
+	book case: 10
+Book ID: 102644
+	row: 9
+	book case: 10
+Book ID: 102645
+	row: 10
+	book case: 10
+Book ID: 102646
+	row: 9
+	book case: 10
+Book ID: 102647
+	row: 10
+	book case: 10
+Book ID: 102648
+	row: 9
+	book case: 10
+Book ID: 102649
+	row: 10
+	book case: 10
+Book ID: 102650
+	row: 9
+	book case: 10
+Book ID: 102651
+	row: 10
+	book case: 10
+Book ID: 102652
+	row: 9
+	book case: 10
+Book ID: 102653
+	row: 10
+	book case: 10
+Book ID: 102654
+	row: 9
+	book case: 10
+Book ID: 102655
+	row: 10
+	book case: 10
+Book ID: 102656
+	row: 9
+	book case: 10
+Book ID: 102657
+	row: 10
+	book case: 10
+Book ID: 102658
+	row: 9
+	book case: 10
+Book ID: 102659
+	row: 10
+	book case: 10
+Book ID: 102660
+	row: 9
+	book case: 10
+Book ID: 102661
+	row: 10
+	book case: 10
+Book ID: 102662
+	row: 9
+	book case: 10
+Book ID: 102663
+	row: 10
+	book case: 11
+Book ID: 102664
+	row: 9
+	book case: 10
+Book ID: 102665
+	row: 10
+	book case: 11
+Book ID: 102666
+	row: 9
+	book case: 10
+Book ID: 102667
+	row: 10
+	book case: 11
+Book ID: 102668
+	row: 9
+	book case: 10
+Book ID: 102669
+	row: 10
+	book case: 11
+Book ID: 102670
+	row: 9
+	book case: 10
+Book ID: 102671
+	row: 10
+	book case: 11
+Book ID: 102672
+	row: 9
+	book case: 10
+Book ID: 102673
+	row: 10
+	book case: 11
+Book ID: 102674
+	row: 9
+	book case: 10
+Book ID: 102675
+	row: 10
+	book case: 11
+Book ID: 102676
+	row: 9
+	book case: 11
+Book ID: 102677
+	row: 10
+	book case: 11
+Book ID: 102678
+	row: 9
+	book case: 11
+Book ID: 102679
+	row: 10
+	book case: 11
+Book ID: 102680
+	row: 9
+	book case: 11
+Book ID: 102681
+	row: 10
+	book case: 11
+Book ID: 102682
+	row: 9
+	book case: 11
+Book ID: 102683
+	row: 10
+	book case: 11
+Book ID: 102684
+	row: 9
+	book case: 11
+Book ID: 102685
+	row: 10
+	book case: 11
+Book ID: 102686
+	row: 9
+	book case: 11
+Book ID: 102687
+	row: 10
+	book case: 11
+Book ID: 102688
+	row: 9
+	book case: 11
+Book ID: 102689
+	row: 10
+	book case: 11
+Book ID: 102690
+	row: 9
+	book case: 11
+Book ID: 102691
+	row: 10
+	book case: 11
+Book ID: 102692
+	row: 9
+	book case: 11
+Book ID: 102693
+	row: 10
+	book case: 11
+Book ID: 102694
+	row: 9
+	book case: 11
+Book ID: 102695
+	row: 10
+	book case: 11
+Book ID: 102696
+	row: 9
+	book case: 11
+Book ID: 102697
+	row: 10
+	book case: 11
+Book ID: 102698
+	row: 9
+	book case: 11
+Book ID: 102699
+	row: 10
+	book case: 11
+Book ID: 102700
+	row: 9
+	book case: 11
+Book ID: 102701
+	row: 10
+	book case: 11
+Book ID: 102702
+	row: 9
+	book case: 11
+Book ID: 102703
+	row: 10
+	book case: 11
+Book ID: 102704
+	row: 9
+	book case: 11
+Book ID: 102705
+	row: 10
+	book case: 11
+Book ID: 102706
+	row: 9
+	book case: 11
+Book ID: 102707
+	row: 10
+	book case: 11
+Book ID: 102708
+	row: 9
+	book case: 11
+Book ID: 102709
+	row: 10
+	book case: 12
+Book ID: 102710
+	row: 9
+	book case: 11
+Book ID: 102711
+	row: 10
+	book case: 12
+Book ID: 102712
+	row: 9
+	book case: 11
+Book ID: 102713
+	row: 10
+	book case: 12
+Book ID: 102714
+	row: 9
+	book case: 11
+Book ID: 102715
+	row: 10
+	book case: 12
+Book ID: 102716
+	row: 9
+	book case: 11
+Book ID: 102717
+	row: 10
+	book case: 12
+Book ID: 102718
+	row: 9
+	book case: 11
+Book ID: 102719
+	row: 10
+	book case: 12
+Book ID: 102720
+	row: 9
+	book case: 11
+Book ID: 102721
+	row: 10
+	book case: 12
+Book ID: 102722
+	row: 9
+	book case: 12
+Book ID: 102723
+	row: 10
+	book case: 12
+Book ID: 102724
+	row: 9
+	book case: 12
+Book ID: 102725
+	row: 10
+	book case: 12
+Book ID: 102726
+	row: 9
+	book case: 12
+Book ID: 102727
+	row: 10
+	book case: 12
+Book ID: 102728
+	row: 9
+	book case: 12
+Book ID: 102729
+	row: 10
+	book case: 12
+Book ID: 102730
+	row: 9
+	book case: 12
+Book ID: 102731
+	row: 10
+	book case: 12
+Book ID: 102732
+	row: 9
+	book case: 12
+Book ID: 102733
+	row: 10
+	book case: 12
+Book ID: 102734
+	row: 9
+	book case: 12
+Book ID: 102735
+	row: 10
+	book case: 12
+Book ID: 102736
+	row: 9
+	book case: 12
+Book ID: 102737
+	row: 10
+	book case: 12
+Book ID: 102738
+	row: 9
+	book case: 12
+Book ID: 102739
+	row: 10
+	book case: 12
+Book ID: 102740
+	row: 9
+	book case: 12
+Book ID: 102741
+	row: 10
+	book case: 12
+Book ID: 102742
+	row: 9
+	book case: 12
+Book ID: 102743
+	row: 10
+	book case: 12
+Book ID: 102744
+	row: 9
+	book case: 12
+Book ID: 102745
+	row: 10
+	book case: 12
+Book ID: 102746
+	row: 9
+	book case: 12
+Book ID: 102747
+	row: 10
+	book case: 12
+Book ID: 102748
+	row: 9
+	book case: 12
+Book ID: 102749
+	row: 10
+	book case: 12
+Book ID: 102750
+	row: 9
+	book case: 12
+Book ID: 102751
+	row: 10
+	book case: 12
+Book ID: 102752
+	row: 9
+	book case: 12
+Book ID: 102753
+	row: 10
+	book case: 12
+Book ID: 102754
+	row: 9
+	book case: 12
+Book ID: 102755
+	row: 9
+	book case: 12
+Book ID: 102756
+	row: 9
+	book case: 12
+Book ID: 102757
+	row: 9
+	book case: 12
+Book ID: 102758
+	row: 9
+	book case: 12
+Book ID: 102759
+	row: 9
+	book case: 12
+Book ID: 102760
+	row: 9
+	book case: 12

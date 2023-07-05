@@ -1,0 +1,117 @@
+insert 1 21
+insert 2 0
+insert 3 0
+insert 4 0
+insert 5 0
+insert 6 0
+insert 7 0
+insert 8 0
+insert 9 0
+insert 10 0
+insert 11 243
+insert 12 0
+insert 13 0
+insert 14 0
+insert 15 0
+insert 16 0
+insert 17 0
+insert 18 0
+insert 19 0
+insert 20 0
+insert 21 234
+insert 22 0
+insert 23 0
+insert 24 0
+insert 25 0
+insert 26 0
+insert 27 0
+insert 28 0
+insert 29 0
+insert 30 0
+insert 31 543
+insert 32 0
+insert 33 0
+insert 34 0
+insert 35 0
+insert 36 0
+insert 37 0
+insert 38 0
+insert 39 0
+insert 40 0
+insert 41 -123124
+insert 42 0
+insert 43 0
+insert 44 0
+insert 45 0
+insert 46 0
+insert 47 0
+insert 48 0
+insert 49 0
+insert 50 0
+insert 51 12333
+insert 52 0
+find 1
+find 11
+find 21
+find 31
+find 41
+find 51
+find 1
+find 11
+find 21
+find 31
+find 41
+find 51
+find 1243
+insert 1 21
+insert 2 0
+insert 3 0
+insert 4 0
+insert 5 0
+insert 6 0
+insert 7 0
+insert 8 0
+insert 9 0
+insert 10 0
+insert 11 243
+insert 12 0
+insert 13 0
+insert 14 0
+insert 15 0
+insert 16 0
+insert 17 0
+insert 18 0
+insert 19 0
+insert 20 0
+insert 21 234
+insert 22 0
+insert 23 0
+insert 24 0
+insert 25 0
+insert 26 0
+insert 27 0
+insert 28 0
+insert 29 0
+insert 30 0
+insert 31 543
+insert 32 0
+insert 33 0
+insert 34 0
+insert 35 0
+insert 36 0
+insert 37 0
+insert 38 0
+insert 39 0
+insert 40 0
+insert 41 -123124
+insert 42 0
+insert 43 0
+insert 44 0
+insert 45 0
+insert 46 0
+insert 47 0
+insert 48 0
+insert 49 0
+insert 50 0
+insert 51 12333
+insert 52 0

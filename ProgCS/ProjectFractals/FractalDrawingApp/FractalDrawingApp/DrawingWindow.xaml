@@ -1,0 +1,163 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FractalDrawingApp"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit" x:Class="FractalDrawingApp.DrawingWindow"
+        mc:Ignorable="d"
+        Title="DrawingWindow" MinHeight="400" MinWidth="800" Background="DimGray"
+        WindowStartupLocation="CenterScreen" ResizeMode="CanResizeWithGrip">
+    <Grid RenderTransformOrigin="0.318,0.919" >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="6.5*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="0.1*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="0.2*" />
+
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="0.5*" />
+            <RowDefinition Height="0.75*" />
+            <RowDefinition Height="0.5*" />
+            <RowDefinition Height="0.75*" />
+            <RowDefinition Height="0.75*" />
+            <RowDefinition Height="0.5*" />
+        </Grid.RowDefinitions>
+        <Viewbox  HorizontalAlignment="Left" Grid.Column="0" Grid.Row="0" Grid.RowSpan="15">
+            <ScrollViewer Name ="ScrollZoom"  Width="639" Height="575" HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Visible">
+                <Canvas x:Name="drawingArea" Height="575" Width="639" ClipToBounds="True"
+                HorizontalAlignment="Left" 
+                Background="White"/>
+            </ScrollViewer>
+        </Viewbox>
+        <Viewbox Grid.Column="1" Grid.ColumnSpan="4" Grid.Row="0"  HorizontalAlignment="Left">
+            <Label Content="Recursion depth" FontSize="24" />
+        </Viewbox>
+        <Viewbox Grid.Column="1" Grid.ColumnSpan="4" Grid.Row="1">
+            <Slider
+                x:Name="recursionDepthSlider" TickPlacement="BottomRight" Width="250"
+                Maximum="8" TickFrequency="1" ValueChanged="recursionDepth_ValueChanged"
+                IsSnapToTickEnabled="True" />
+        </Viewbox>
+        <Viewbox Grid.Column="5" Grid.Row="1">
+            <TextBox
+                 Text="{Binding Value, ElementName=recursionDepthSlider, UpdateSourceTrigger=PropertyChanged}"
+                 TextWrapping="Wrap"
+                 x:Name="recursionDepthTextBox" />
+        </Viewbox>
+
+        <Viewbox Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="4">
+            <Label
+                x:Name="firstLabel" Content="First angle" FontSize="24" HorizontalAlignment="Left"
+               VerticalAlignment="Top" />
+        </Viewbox>
+        <Viewbox Grid.Column="1" Grid.Row="3" Grid.ColumnSpan="4">
+            <Slider
+                x:Name="firstAngleSlider" HorizontalAlignment="Left"
+                VerticalAlignment="Top" Width="250"
+                TickPlacement="BottomRight" Minimum="20" Maximum="45" TickFrequency="1"
+                ValueChanged="firstAngleSlider_ValueChanged"
+                IsSnapToTickEnabled="True" />
+        </Viewbox>
+        <Viewbox Grid.Column="5" Grid.Row="3">
+            <TextBox
+                 Text="{Binding Value, ElementName=firstAngleSlider, UpdateSourceTrigger=PropertyChanged}"
+                 TextWrapping="Wrap" VerticalAlignment="Top"
+                 x:Name="firstAngleTextBox" />
+        </Viewbox>
+
+        <Viewbox Grid.Column="1" Grid.Row="4" Grid.ColumnSpan="4">
+            <Label
+                x:Name="secondLabel" Content="Second angle" FontSize="24" HorizontalAlignment="Left"
+               VerticalAlignment="Top" />
+        </Viewbox>
+        <Viewbox Grid.Column="1" Grid.Row="5" Grid.ColumnSpan="4">
+            <Slider
+                x:Name="secondAngleSlider" HorizontalAlignment="Left"
+                VerticalAlignment="Top" Width="250"
+                TickPlacement="BottomRight" Minimum="20" Maximum="45" TickFrequency="1"
+                ValueChanged="secondAngleSlider_ValueChanged"
+                IsSnapToTickEnabled="True" />
+        </Viewbox>
+        <Viewbox Grid.Column="5" Grid.Row="5">
+            <TextBox
+                HorizontalAlignment="Left" Height="24"
+                 Text="{Binding Value, ElementName=secondAngleSlider, UpdateSourceTrigger=PropertyChanged}" Width="30"
+                 TextWrapping="Wrap" VerticalAlignment="Top"
+                 x:Name="secondAngleTextBox" />
+        </Viewbox>
+
+        <Viewbox Grid.Column="1" Grid.Row="6" Grid.ColumnSpan="4">
+            <Label
+                x:Name="coefficentLabel" Content="Coefficent" FontSize="24" HorizontalAlignment="Left"
+               VerticalAlignment="Top" />
+        </Viewbox>
+        <Viewbox Grid.Column="1" Grid.Row="7" Grid.ColumnSpan="4">
+            <Slider
+                x:Name="coefficentSlider" HorizontalAlignment="Left"
+                VerticalAlignment="Top" Width="250"
+                TickPlacement="BottomRight" Minimum="55" Maximum="71" TickFrequency="1"
+                ValueChanged="coefficentSlider_ValueChanged"
+                IsSnapToTickEnabled="True" />
+        </Viewbox>
+        <Viewbox Grid.Column="5" Grid.Row="7">
+            <TextBox
+                HorizontalAlignment="Left" Height="24"
+                 Text="{Binding Value, ElementName=coefficentSlider, UpdateSourceTrigger=PropertyChanged}" Width="30"
+                 TextWrapping="Wrap" VerticalAlignment="Top"
+                 x:Name="coefficentTextBox" />
+        </Viewbox>
+
+        <Viewbox Grid.Column="4" Grid.Row="12" Grid.ColumnSpan="2">
+            <Button
+                x:Name="backButton" Click="backButton_Click" Content="Back"
+                FontSize="24" Height="60" Width="180" />
+        </Viewbox>
+
+        <Viewbox Grid.Column="1" Grid.Row="12" Grid.ColumnSpan="2">
+            <Button
+                x:Name="saveButton" Click="saveButton_Click" Content="Save picture"
+                FontSize="24" Width="180" Height="60" />
+        </Viewbox>
+
+        <Viewbox Grid.Column="1" Grid.Row="11" Grid.ColumnSpan="2">
+            <xctk:ColorPicker Name="startColorPicker"  HorizontalAlignment="Left"   VerticalAlignment="Top" Width="195" Height="30" SelectedColorChanged="startColor_ValueChanged"/>
+        </Viewbox>
+
+        <Viewbox Grid.Column="4" Grid.Row="11" Grid.ColumnSpan="2">
+            <xctk:ColorPicker Name ="endColorPicker"  HorizontalAlignment="Left"  VerticalAlignment="Top" Width="195" Height="30" SelectedColorChanged="endColor_ValueChanged"/>
+        </Viewbox>
+        <Viewbox Grid.Column="1" Grid.Row="10" Grid.ColumnSpan="2">
+            <Label Content="Start Color" Grid.Column="1" HorizontalAlignment="Left" Grid.Row="8" VerticalAlignment="Top" FontSize ="24" Height="40" Width="244" />
+        </Viewbox>
+        <Viewbox Grid.Column="4" Grid.Row="10" Grid.ColumnSpan="2">
+            <Label Content="End Color"  HorizontalAlignment="Left"  VerticalAlignment="Top" FontSize="20" Height="40" Width="244"/>
+        </Viewbox>
+        <Viewbox Grid.Column="1" Grid.Row="9 " Grid.ColumnSpan="4" >
+            <Slider Name="Zoom" TickPlacement="BottomRight" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="285" Height="35" ValueChanged="Zoom_ValueChanged" Minimum="1" Maximum="5" TickFrequency="1" />
+        </Viewbox>
+        <Viewbox Grid.Column="5" Grid.Row="9">
+            <TextBox
+                 Text="{Binding Value, ElementName=Zoom, UpdateSourceTrigger=PropertyChanged}"
+                 TextWrapping="Wrap"
+                 x:Name="ZoomTextBox" />
+        </Viewbox>
+        <Viewbox Grid.Column="1" Grid.Row="8" Grid.ColumnSpan="4">
+        <Label Content="Zoom"  HorizontalAlignment="Center" VerticalAlignment="Top" Width="103" FontSize="25"/>
+        </Viewbox>
+
+    </Grid>
+
+</Window>

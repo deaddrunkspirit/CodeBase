@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+    <CodeSnippet Format="1.0.0">
+        <Header>
+            <Title>IComparable</Title>
+            <Shortcut>compare</Shortcut>
+        </Header>
+        <Snippet>
+            <Code Language="CSharp">
+                <![CDATA[
+[Serializable]
+    public abstract class Animal : IComparable
+    {
+        public string Sound { get; set; }
+
+        public string Name { get; set; }
+
+        public int Age { get; set; }
+
+        public Animal(int age, string name, string sound)
+        {
+            Age = age;
+            Name = name;
+            Sound = sound;
+        }
+
+        public Animal() { }
+
+        public int CompareTo(object obj)
+            => Age.CompareTo((obj as Animal).Age);
+    }
+    ]]>
+            </Code>
+        </Snippet>
+    </CodeSnippet>
+</CodeSnippets>

@@ -1,0 +1,6 @@
+space = sorted((int(input()), int(input()), int(input())))
+box = sorted((int(input()), int(input()), int(input())))
+count = (space[0] // box[0]) * (space[1] // box[1]) * (space[2] // box[2])
+left = sorted((space[0] % box[0], space[1] % box[0], space[2] % box[0]))
+count += (left[0] // box[0]) * (left[1] // box[1]) * (left[2] // box[2])
+print(count)

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+    <CodeSnippet Format="1.0.0">
+        <Header>
+            <Title>GetName</Title>
+            <Shortcut>getname</Shortcut>
+        </Header>
+        <Snippet>
+            <Code Language="CSharp">
+                <![CDATA[
+private static string GetName(int length)
+    {
+        string name = "{(char)rnd.Next('А', 'Я' + 1)}";
+        for (int i = 1; i < length; i++)
+            name += "{(char)rnd.Next('а', 'я' + 1)}";
+            
+        return name;
+    }
+    ]]>
+            </Code>
+        </Snippet>
+    </CodeSnippet>
+</CodeSnippets>

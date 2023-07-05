@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+    <CodeSnippet Format="1.0.0">
+        <Header>
+            <Title>Serializable Class</Title>
+            <Shortcut>sclass</Shortcut>
+        </Header>
+        <Snippet>
+            <Code Language="CSharp">
+                <![CDATA[
+[Serializable]
+    public class Class : IComparable
+    {
+        public int Sound { get; set; }
+
+        public string Name { get; set; }
+
+        public Animal(string name, string sound)
+        {
+            Name = name;
+            Sound = sound;
+        }
+
+        public Animal() { }
+
+        public int CompareTo(object obj)
+            => Sound.CompareTo((obj as Animal).Sound);
+
+        public override string ToString()
+            => "{}{}{}";
+    }
+    ]]>
+            </Code>
+        </Snippet>
+    </CodeSnippet>
+</CodeSnippets>

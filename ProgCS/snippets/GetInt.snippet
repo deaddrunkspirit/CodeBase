@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+    <CodeSnippet Format="1.0.0">
+        <Header>
+            <Title>GetInt</Title>
+            <Shortcut>getint</Shortcut>
+        </Header>
+        <Snippet>
+            <Code Language="CSharp">
+                <![CDATA[
+public static int GetInt(string message = "Input N: ", int lowerBound = 0, int upperBound = 100000)
+        {
+            int number;
+            Console.Write(message);
+            while (!int.TryParse(Console.ReadLine(), out number) 
+                || number < lowerBound || number > upperBound)
+                Console.WriteLine("Please input integer number in [{lowerBound}, {upperBound}]");
+            return number;
+        }
+    ]]>
+            </Code>
+        </Snippet>
+    </CodeSnippet>
+</CodeSnippets>

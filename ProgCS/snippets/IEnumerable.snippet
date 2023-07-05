@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+    <CodeSnippet Format="1.0.0">
+        <Header>
+            <Title>IEnumerable</Title>
+            <Shortcut>ienumerable</Shortcut>
+        </Header>
+        <Snippet>
+            <Code Language="CSharp">
+                <![CDATA[
+[Serializable]
+    public class Class1<T> : IEnumerable<T>
+    {
+        private static Random rnd = new Random();
+
+        public Zoo() { }
+
+        public Zoo(int number)
+        {
+            for (int i = 0; i < number; i++)
+                try
+                {
+                    // code to add class to list
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.Message);
+                    i--;
+                    continue;
+                }
+        }
+
+        public List<Class2> zoo = new List<Class2>();
+
+        private static Class2 GenerateClass2(int choice)
+        {
+            switch (choice)
+            {
+                case 1:
+                    return // generate class;
+                case 2:
+                    return // generate class to add;
+                default:
+                    throw new ArgumentException();
+            }
+        }
+
+        public void Add(Object o) { }
+
+        private static string GetName(int length)
+        {
+            string name = "{(char)rnd.Next('A', 'Z' + 1)}";
+            for (int i = 1; i < length; i++)
+                name += "{(char)rnd.Next('a', 'z' + 1)}";
+
+            return name;
+        }
+
+        public IEnumerator<T> GetEnumerator()
+            => new MyEnumerator<Animal>(zoo.ToArray()) as IEnumerator<T>;
+
+        IEnumerator IEnumerable.GetEnumerator()
+            => GetEnumerator();
+    }
+    ]]>
+            </Code>
+        </Snippet>
+    </CodeSnippet>
+</CodeSnippets>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+    <CodeSnippet Format="1.0.0">
+        <Header>
+            <Title>IEnumeratorT</Title>
+            <Shortcut>ienumeratort</Shortcut>
+        </Header>
+        <Snippet>
+            <Code Language="CSharp">
+                <![CDATA[
+public class MyEnumerator<T> : IEnumerator<T> where T : IComparable
+    {
+        private T[] animals;
+
+        public MyEnumerator(T[] animals)
+        {
+            Array.Sort(animals);
+            this.animals = animals;
+        }
+
+        private int position = -1;
+
+        public T Current
+        {
+            get
+            {
+                if (position == -1 || position >= animals.Length)
+                    throw new InvalidOperationException("Invalid animal index");
+
+                return animals[position];
+            }
+        }
+
+        object IEnumerator.Current => Current;
+
+        public void Dispose() { }
+
+        public bool MoveNext()
+        {
+            if (++position < animals.Length)
+                return true;
+            else
+                return false;
+        }
+
+        public void Reset() => position = -1;
+    }
+    ]]>
+            </Code>
+        </Snippet>
+    </CodeSnippet>
+</CodeSnippets>

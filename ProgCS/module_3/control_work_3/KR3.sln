@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{8A4FE6E5-3521-42FF-8C49-79AC32F24B94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetLib", "PetLib\PetLib.csproj", "{598B3A7A-5AB0-46D9-B91E-DA4FA8330735}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A4FE6E5-3521-42FF-8C49-79AC32F24B94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A4FE6E5-3521-42FF-8C49-79AC32F24B94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A4FE6E5-3521-42FF-8C49-79AC32F24B94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A4FE6E5-3521-42FF-8C49-79AC32F24B94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{598B3A7A-5AB0-46D9-B91E-DA4FA8330735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{598B3A7A-5AB0-46D9-B91E-DA4FA8330735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{598B3A7A-5AB0-46D9-B91E-DA4FA8330735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{598B3A7A-5AB0-46D9-B91E-DA4FA8330735}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C09B37A2-B4F8-4583-BB04-09B2E1307174}
+	EndGlobalSection
+EndGlobal

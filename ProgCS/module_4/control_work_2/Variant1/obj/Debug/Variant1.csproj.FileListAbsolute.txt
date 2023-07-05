@@ -1,0 +1,9 @@
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\01_04SR\Variant1\obj\Debug\Variant1.csprojAssemblyReference.cache
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\01_04SR\Variant1\bin\Debug\Variant1.exe.config
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\01_04SR\Variant1\bin\Debug\Variant1.exe
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\01_04SR\Variant1\bin\Debug\Variant1.pdb
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\01_04SR\Variant1\bin\Debug\ClassLibrary1.dll
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\01_04SR\Variant1\bin\Debug\ClassLibrary1.pdb
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\01_04SR\Variant1\obj\Debug\Variant1.csproj.CopyComplete
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\01_04SR\Variant1\obj\Debug\Variant1.exe
+C:\Users\deaddrunkspirit\Desktop\Homework\ProgCS\3Modul\196MosolkovEugen\01_04SR\Variant1\obj\Debug\Variant1.pdb

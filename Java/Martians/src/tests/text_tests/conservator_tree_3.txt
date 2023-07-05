@@ -1,0 +1,6 @@
+ConservatorMartian(Double:1.2)
+    ConservatorMartian(Double:3.4)
+        ConservatorMartian(Double:1.43)
+            ConservatorMartian(Double:8.333)
+        ConservatorMartian(Double:2323.4325)
+        ConservatorMartian(Double:643.234)
